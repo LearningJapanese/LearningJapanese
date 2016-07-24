@@ -2,7 +2,7 @@
     var app = angular.module("pimsleur", ["ngRoute"]);
     app.config(function ($routeProvider) {
         $routeProvider
-            .when("/level/:lid", {
+            .when("/list", {
                 templateUrl: "views/unitList.html",
                 controller: "UnitListController"
             })
@@ -10,6 +10,6 @@
                 templateUrl: "views/lesson.html",
                 controller: "LessonController"
             })
-            .otherwise({ redirectTo: "/level/1" });
+            .otherwise({ redirectTo: "/list" });
     });
 } ());

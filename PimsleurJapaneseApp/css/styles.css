@@ -94,3 +94,6 @@ from touching the row content above or below.
   user-select: none;           /* Non-prefixed version, currently
                                   not supported by any browser */
 }
+.table tbody>tr>td.vert-align{
+    vertical-align: middle;
+}

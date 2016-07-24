@@ -8,7 +8,7 @@
         console.log($scope.lid)
         
         $http.get( "js/data/level1.json").success(function(data) {
-            $scope.levelData = data;
+            $scope.level1Data = data;
         });
     };
     
