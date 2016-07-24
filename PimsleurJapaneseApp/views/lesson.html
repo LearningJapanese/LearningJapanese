@@ -98,7 +98,7 @@
                     <c style="font-size:11px" ng-style="!nightmode && {'color':'#999999'} || {'color':'#999'}" ng-hide="enabled[$index]">{{hideTxt(phrase.Japanese)}}</c>
                 </td>
                 <td class="vert-align well">
-                    <button class="btn btn-default glyphicon" ng-class="enabled[$index] ? 'glyphicon-eye-close': 'glyphicon-eye-open'" style="width:45px;"
+                    <button class="noselect btn btn-default glyphicon" ng-class="enabled[$index] ? 'glyphicon-eye-close': 'glyphicon-eye-open'" style="width:45px;"
                         ng-click="enabled[$index] = !enabled[$index]">
                     </button>
                 </td>
