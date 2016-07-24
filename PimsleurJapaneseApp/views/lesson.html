@@ -72,15 +72,15 @@
 <div class="hidden-lg">
     <div class="btn-group btn-group-justified" role="group" aria-label="LBL">
         <div class="btn-group" role="group">
-            <span class="glyphicon glyphicon-eye-close btn btn-default" ng-click="showHide(false)"></span>
+            <span class="noselect glyphicon glyphicon-eye-close btn btn-default" ng-click="showHide(false)"></span>
         </div>
         <div class="btn-group" role="group">
             <div class="container-flexible">
-                <span class="glyphicon glyphicon-menu-down btn btn-default" ng-click="goDown(true)"></span>
+                <span class="noselect glyphicon glyphicon-menu-down btn btn-default" ng-click="goDown(true)"></span>
             </div>
         </div>
         <div class="btn-group" role="group">
-            <span class="glyphicon glyphicon-eye-open btn btn-default" ng-click="showHide(true)"></span>
+            <span class="noselect glyphicon glyphicon-eye-open btn btn-default" ng-click="showHide(true)"></span>
         </div>
     </div>
 </div>
@@ -105,7 +105,7 @@
                 </td>
                 <td class="vert-align well">
                     <button class="noselect btn btn-default" style="width:45px;"
-                        ng-click="enabled[$index] = !enabled[$index]"><span class="glyphicon" ng-class="enabled[$index] ? 'glyphicon-eye-close': 'glyphicon-eye-open'"></span>
+                        ng-click="enabled[$index] = !enabled[$index]"><span class="noselect glyphicon" ng-class="enabled[$index] ? 'glyphicon-eye-close': 'glyphicon-eye-open'"></span>
                     </button>
                 </td>
             </tr>
@@ -117,18 +117,18 @@
 <div>
     <div class="btn-group btn-group-justified" role="group" aria-label="LBL">
         <div class="btn-group" role="group" ng-show="lsn>1">
-            <button type="button" class="btn btn-default" ng-click="navUnit(false)">
-                <span class="glyphicon glyphicon-menu-left"></span>
+            <button type="button" class="noselect btn btn-default" ng-click="navUnit(false)">
+                <span class="noselect glyphicon glyphicon-menu-left"></span>
             </button>
         </div>
         <div class="btn-group" role="group">
-            <button type="button" class="btn btn-default" ng-click="goDown(false)">
-                <span class="glyphicon glyphicon-menu-up"></span>
+            <button type="button" class="noselect btn btn-default" ng-click="goDown(false)">
+                <span class="noselect glyphicon glyphicon-menu-up"></span>
             </button>
         </div>
         <div class="btn-group" role="group" ng-show="lsn<lsnCount">
-            <button type="button" class="btn btn-default" ng-click="navUnit(true)">
-                <span class="glyphicon glyphicon-menu-right"></span>
+            <button type="button" class="noselect btn btn-default" ng-click="navUnit(true)">
+                <span class="noselect glyphicon glyphicon-menu-right"></span>
             </button>
         </div>
     </div>
