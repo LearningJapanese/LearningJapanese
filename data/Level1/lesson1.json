@@ -1,0 +1,74 @@
+{
+    "name": "Lesson 1",
+    "trackName": "Pimsleur - Japanese 1 - Lesson 01.mp3",
+    "phrases": [
+        {
+            "English": "I understand",
+            "Japanese": "Wakarimasu (wakarimaas) / Wakaru"
+        },
+        {
+            "English": "I don't understand",
+            "Japanese": "Wakarimasen"
+        },
+        {
+            "English": "A little",
+            "Japanese": "Sukoshi (Skoshi)"
+        },
+        {
+            "English": "Japanese",
+            "Japanese": "Nihongo, Nihongo-ga"
+        },
+        {
+            "English": "Are",
+            "Japanese": "Desu"
+        },
+        {
+            "English": "English",
+            "Japanese": "Eigo, Eigo-ga"
+        },
+        {
+            "English": "American",
+            "Japanese": "Amerika-jin"
+        },
+        {
+            "English": "Yes",
+            "Japanese": "Hai"
+        },
+        {
+            "English": "No",
+            "Japanese": "Īe (ee-ye)"
+        },
+        {
+            "English": "Do you understand English?",
+            "Japanese": "Eigo-ga wakarimasu-ka?"
+        },
+        {
+            "English": "Are you American?",
+            "Japanese": "Anata wa Amerika-jin desu-ka?"
+        },
+        {
+            "English": "I am American",
+            "Japanese": "Watashi wa Amerika-jin"
+        },
+        {
+            "English": "I understand a little",
+            "Japanese": "Sukoshi wakarimasu"
+        },
+        {
+            "English": "I understand japanese a little",
+            "Japanese": "Nihongo-ga sukoshi wakarimasu"
+        },
+        {
+            "English": "American",
+            "Japanese": "Amerika-jin"
+        },
+        {
+            "English": "Indian",
+            "Japanese": "Indo-jin"
+        },
+        {
+            "English": "Are you Indian?",
+            "Japanese": "Anata wa Indo-jin desu ka?"
+        }
+    ]
+}
