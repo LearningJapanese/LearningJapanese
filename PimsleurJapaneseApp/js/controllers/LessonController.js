@@ -9,18 +9,15 @@
         $scope.enabled = [];
         $scope.unitData = [];
         $scope.showUnits = false;
-        $scope.formData = {};
-        $scope.formData.lid = $scope.lid;
-        $scope.formData.uid = $scope.uid;
 
         var r = Math.floor((Math.random() * 1000) + 1);
 
-        $http.get("js/data/level" + $scope.lid + ".json?ver=" + r).success(function (data) {
+        $http.get("js/data/level" + $scope.lid + ".json").success(function (data) {
             $scope.lsnCount = data.lessons.length;
             $scope.lessons = data.lessons;
         });
 
-        $http.get("js/data/Level" + $scope.lid + "/lesson" + $scope.lsn + ".json?ver=" + r).success(function (data) {
+        $http.get("js/data/Level" + $scope.lid + "/lesson" + $scope.lsn + ".json").success(function (data) {
             angular.forEach(data.phrases, function (phrase, index) {
                 $scope.enabled.push(false);
             });
