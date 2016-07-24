@@ -1,0 +1,455 @@
+{
+    "name": "Lesson 30",
+    "trackName": "Pimsleur - Japanese 1 - Lesson 30.mp3",
+    "phrases": [
+        {
+            "English": "A good book",
+            "Japanese": "Ii hon"
+        },
+        {
+            "English": "I bought a good book",
+            "Japanese": "Ii hon o kai mashi ta"
+        },
+        {
+            "English": "What did you buy yesterday",
+            "Japanese": "Kinō nani o kai mashi ta ka"
+        },
+        {
+            "English": "I bought something to drink",
+            "Japanese": "Nani ka nomu mono ga ari mashi ta"
+        },
+        {
+            "English": "I bought  good sake yesterday",
+            "Japanese": "Kinō wa o sake o kai mashi ta"
+        },
+        {
+            "English": "Did you eat your lunch",
+            "Japanese": "Hiru gohan o tabe mashi ta ka"
+        },
+        {
+            "English": "No I didn't eat",
+            "Japanese": "Ie tabe mase n deshi ta"
+        },
+        {
+            "English": "Word",
+            "Japanese": "Kotoba"
+        },
+        {
+            "English": "‘Kotoba’ what does that mean?",
+            "Japanese": "Kotoba sore wa dōyuu imi desu ka"
+        },
+        {
+            "English": "It means word",
+            "Japanese": "Bāsuto imi desu"
+        },
+        {
+            "English": "This word",
+            "Japanese": "Kono kotoba"
+        },
+        {
+            "English": "What does this word mean",
+            "Japanese": "Kono kotoba wa dōyuu imi desu ka"
+        },
+        {
+            "English": "What does ‘suki’ mean",
+            "Japanese": "Suki desu ga dōyuu imi desu ka"
+        },
+        {
+            "English": "What does that mean",
+            "Japanese": "Sore wa dōyuu imi desu ka"
+        },
+        {
+            "English": "It means like",
+            "Japanese": "Like dōyuu imi desu"
+        },
+        {
+            "English": "What is ‘Kotoba’ mean",
+            "Japanese": "Kotoba wa dōyuu imi desu ka"
+        },
+        {
+            "English": "It means word",
+            "Japanese": "Wāsuto imi desu"
+        },
+        {
+            "English": "To say",
+            "Japanese": "I masu"
+        },
+        {
+            "English": "How do you say ‘like’",
+            "Japanese": "Like wa nani to ii masu ka"
+        },
+        {
+            "English": "How",
+            "Japanese": "Nan do"
+        },
+        {
+            "English": "In dollars",
+            "Japanese": "Doru de"
+        },
+        {
+            "English": "In dollars it's too expensive",
+            "Japanese": "Dōro de wa taka sugi masu"
+        },
+        {
+            "English": "In Japanese",
+            "Japanese": "Nihongo de"
+        },
+        {
+            "English": "How do you say in Japanese",
+            "Japanese": "Nihongo de nani to ii masu ka"
+        },
+        {
+            "English": "How do you say word",
+            "Japanese": "Wārudo wa nani to ii masu ka"
+        },
+        {
+            "English": "In Japanese",
+            "Japanese": "Nihongo de"
+        },
+        {
+            "English": "How do you say word in Japanese",
+            "Japanese": "Wādo wa nihongo de nani to ii masu ka"
+        },
+        {
+            "English": "It is said ‘kotoba’",
+            "Japanese": "Kotoba to ii masu"
+        },
+        {
+            "English": "How do you say like in Japanese",
+            "Japanese": "Maiku wa nihongo de nani to ii masu ka"
+        },
+        {
+            "English": "It is sad ‘Suki desu‘",
+            "Japanese": "Suki desu to ii masu"
+        },
+        {
+            "English": "How do you say this word in Japanese",
+            "Japanese": "?This word? wa nihongo de nani to ii masu ka"
+        },
+        {
+            "English": "It is sad not ‘kono kotoba’",
+            "Japanese": "Kono kotoba to i masu"
+        },
+        {
+            "English": "In English",
+            "Japanese": "Eigo de"
+        },
+        {
+            "English": "How do you say ‘Suki desu’ in English",
+            "Japanese": "Suki desu wa eigo de nani to ii masu ka"
+        },
+        {
+            "English": "It is said ‘like‘",
+            "Japanese": "Ima iku to ii masu"
+        },
+        {
+            "English": "How do you say ‘kono kotoba’ in English",
+            "Japanese": "Kono kotoba wa eigo de nani to ii masu ka"
+        },
+        {
+            "English": "It is said this word",
+            "Japanese": "De suwaru to ii masu"
+        },
+        {
+            "English": "How to say a good book",
+            "Japanese": "Kyoku wa nani to ii masu ka"
+        },
+        {
+            "English": "It is said ‘ee hon’",
+            "Japanese": "Ionaimasu"
+        },
+        {
+            "English": "I’m here",
+            "Japanese": "Koko ni i masu"
+        },
+        {
+            "English": "Are you alone",
+            "Japanese": "Hitori desu ka"
+        },
+        {
+            "English": "No I am with my husband",
+            "Japanese": "Ie kodomo to issho desu"
+        },
+        {
+            "English": "But I am going to return alone",
+            "Japanese": "Demo Hitori de kaeri masu"
+        },
+        {
+            "English": "Since when",
+            "Japanese": "I tsu kara"
+        },
+        {
+            "English": "Since a few hours ago",
+            "Japanese": "23 ninmae kara"
+        },
+        {
+            "English": "Since how many hours ago",
+            "Japanese": "3 jikan mae kara"
+        },
+        {
+            "English": "Since when",
+            "Japanese": "I tsu kara"
+        },
+        {
+            "English": "Since 4 days ago",
+            "Japanese": "4 nichi mae kara"
+        },
+        {
+            "English": "We want to spend the week",
+            "Japanese": "Watashi tachi wa ichi shūkan sugoshitai desu"
+        },
+        {
+            "English": "In Tokyo",
+            "Japanese": "Tōkyō de"
+        },
+        {
+            "English": "We are going to stay here for a week",
+            "Japanese": "Watashi tachi wa koko ni i sō ga ari masu"
+        },
+        {
+            "English": "I want to spend a few weeks",
+            "Japanese": "Nissan chi ?ukan tsubo shitai desu"
+        },
+        {
+            "English": "But we don't have time",
+            "Japanese": "Demo watashi tachi wa jikan ga ari mase n"
+        },
+        {
+            "English": "I like Japan",
+            "Japanese": "Nippon ga suki desu"
+        },
+        {
+            "English": "How many days are you going to stay",
+            "Japanese": "Nan nichi i masu ka"
+        },
+        {
+            "English": "1 week",
+            "Japanese": "Ichi shūkan"
+        },
+        {
+            "English": "4 days",
+            "Japanese": "4 nichi"
+        },
+        {
+            "English": "Went",
+            "Japanese": "Iki mashi ta"
+        },
+        {
+            "English": "Where did you go today",
+            "Japanese": "Kyō doko e iki mashi ta ka"
+        },
+        {
+            "English": "I went to Yokohama",
+            "Japanese": "Yokohama e iki mashi ta"
+        },
+        {
+            "English": "What did you buy",
+            "Japanese": "Nani o kai mashi ta ka"
+        },
+        {
+            "English": "Something to drink",
+            "Japanese": "Nani ka nomu mono"
+        },
+        {
+            "English": "A good book",
+            "Japanese": "E hon"
+        },
+        {
+            "English": "Good sake",
+            "Japanese": "Ii o sake"
+        },
+        {
+            "English": "And you",
+            "Japanese": "Anata wa"
+        },
+        {
+            "English": "I don't want anything",
+            "Japanese": "Nani mo hoshiku ari mase n"
+        },
+        {
+            "English": "I don't want",
+            "Japanese": "Hoshiku ari mase n"
+        },
+        {
+            "English": "Nothing",
+            "Japanese": "Nani mo"
+        },
+        {
+            "English": "Yesterday I ate",
+            "Japanese": "Kinō tabe mashi ta"
+        },
+        {
+            "English": "I didn't it yesterday",
+            "Japanese": "Kinō tabe mase n deshi ta"
+        },
+        {
+            "English": "I didn't eat anything",
+            "Japanese": "Nani mo tabe mase n deshi ta"
+        },
+        {
+            "English": "I am not going to buy",
+            "Japanese": "Ga i mase n"
+        },
+        {
+            "English": "I am not going to buy anything",
+            "Japanese": "Nani mo kai mase n"
+        },
+        {
+            "English": "I didn't buy",
+            "Japanese": "Ga i mase n deshi ta"
+        },
+        {
+            "English": "I didn't buy anything",
+            "Japanese": "Nani mo ari mase n deshi ta"
+        },
+        {
+            "English": "Did you buy something",
+            "Japanese": "Nani ka kai mashi ta ka"
+        },
+        {
+            "English": "No I didn't buy anything",
+            "Japanese": "Nani mo kai mase n deshi ta"
+        },
+        {
+            "English": "Did you buy a book",
+            "Japanese": "Hana o kai mashi ta ka"
+        },
+        {
+            "English": "No I didn’t buy",
+            "Japanese": "Rie ari mase n deshi ta"
+        },
+        {
+            "English": "But I ate lunch",
+            "Japanese": "Demo hiru gohan o tabe mashi ta"
+        },
+        {
+            "English": "I went to a good restaurant",
+            "Japanese": "Chīzu resutoran wa iki mashi ta"
+        },
+        {
+            "English": "Did you eat Sushi",
+            "Japanese": "Sushi wa tabe mashi ta ka"
+        },
+        {
+            "English": "No I didn't",
+            "Japanese": "Ie tabe mase n deshi ta"
+        },
+        {
+            "English": "DId you speak Japanese",
+            "Japanese": "Nihongo o hanashi mashi ta ka"
+        },
+        {
+            "English": "Did you speak English",
+            "Japanese": "Eigo o hanashi mashi ta ka"
+        },
+        {
+            "English": "A little",
+            "Japanese": "Sukoshi"
+        },
+        {
+            "English": "We spoke Japanese",
+            "Japanese": "Watashi tachi wa nihongo o hanashi mashi ta"
+        },
+        {
+            "English": "When",
+            "Japanese": "Rittsu"
+        },
+        {
+            "English": "Yesterday",
+            "Japanese": "Kinō"
+        },
+        {
+            "English": "This morning",
+            "Japanese": "Kesa"
+        },
+        {
+            "English": "When did you speak Japanese",
+            "Japanese": "Rettsu nihongo o hanashi mashi ta ka"
+        },
+        {
+            "English": "When did you go",
+            "Japanese": "Itsu iki mashi ta ka"
+        },
+        {
+            "English": "Did you go alone",
+            "Japanese": "Hitori de iki mashi ta ka"
+        },
+        {
+            "English": "Are you alone",
+            "Japanese": "Hitori desu ka"
+        },
+        {
+            "English": "When did you arrive",
+            "Japanese": "Itsu deki mashi ta ka"
+        },
+        {
+            "English": "Arrived",
+            "Japanese": "Tsuki mashi ta"
+        },
+        {
+            "English": "Yesterday",
+            "Japanese": "Kinō"
+        },
+        {
+            "English": "When did you arrive in Tokyo",
+            "Japanese": "Etsudoku ni tsuki mashi ta ka"
+        },
+        {
+            "English": "I arrived in Tokyo",
+            "Japanese": "Tōkyō ni tsuki mashi ta"
+        },
+        {
+            "English": "When did you arrive in Japan",
+            "Japanese": "I tsu nippon ni tsuki mashi ta ka"
+        },
+        {
+            "English": "This morning",
+            "Japanese": "Kesa"
+        },
+        {
+            "English": "Together with the family",
+            "Japanese": "Kazoku to issho ni"
+        },
+        {
+            "English": "At how many hours ago",
+            "Japanese": "Nan jikan mae ni"
+        },
+        {
+            "English": "Did you arrive in Tokyo",
+            "Japanese": "Tōkyō ni tsuki mashi ta ka"
+        },
+        {
+            "English": "I arrived this morning",
+            "Japanese": "Kesa shiri mashi ta"
+        },
+        {
+            "English": "And we went to a good restaurant",
+            "Japanese": "Soshite watashi tachi wa b resutoran ni iki mashi ta"
+        },
+        {
+            "English": "This morning",
+            "Japanese": "Kesa iki mashi ta"
+        },
+        {
+            "English": "Did you speak Japanese",
+            "Japanese": "Nihongo o hanashi mashi ta ka"
+        },
+        {
+            "English": "Yes a lot",
+            "Japanese": "Takusan"
+        },
+        {
+            "English": "I spoke Japanese",
+            "Japanese": "Nihongo o hanashi mashi ta"
+        },
+        {
+            "English": "I like Japanese language",
+            "Japanese": "Nihongo ga suki desu"
+        },
+        {
+            "English": "I want to stay in Japan",
+            "Japanese": "Nippon ni itai desu"
+        }
+    ],
+    "startedOn": "18.07.2016 | 07.23.16 pm"
+}

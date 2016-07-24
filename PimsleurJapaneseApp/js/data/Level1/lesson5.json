@@ -1,0 +1,66 @@
+{
+    "name": "Lesson 5",
+    "trackName": "Pimsleur - Japanese 1 - Lesson 05.mp3",
+    "phrases": [
+        {
+            "English": "I'm going to eat",
+            "Japanese": "Tabemasu (tthabemasu)"
+        },
+        {
+            "English": "Are you going to eat?",
+            "Japanese": "Tabemasu ka?"
+        },
+        {
+            "English": "I'm not going to eat",
+            "Japanese": "Tabemasen"
+        },
+        {
+            "English": "Something",
+            "Japanese": "Nanika"
+        },
+        {
+            "English": "I'm going to eat something",
+            "Japanese": "Nanika tabemasu"
+        },
+        {
+            "English": "Won't you eat?",
+            "Japanese": "Tabemasen ka?"
+        },
+        {
+            "English": "Won't you eat something?",
+            "Japanese": "Nanika tabemasen ka?"
+        },
+        {
+            "English": "Are you going to eat something?",
+            "Japanese": "Nanika tabemasu ka?"
+        },
+        {
+            "English": "I drink \/ I'm going to drink",
+            "Japanese": "Nomimasu"
+        },
+        {
+            "English": "I'm not going to drink",
+            "Japanese": "Nomimasen"
+        },
+        {
+            "English": "Are you going to drink?",
+            "Japanese": "Nomimasu-ka?"
+        },
+        {
+            "English": "Are you going to drink something?",
+            "Japanese": "Nanika nomimasu-ka?"
+        },
+        {
+            "English": "No, thank you \/ No, I'm alright",
+            "Japanese": "Īe, kekkōdesu (cacko)"
+        },
+        {
+            "English": "Well, let me see",
+            "Japanese": "So desu naeee (say slow with hesistation) (sou desu naeeee)"
+        },
+        {
+            "English": "No, but I will drink something",
+            "Japanese": "Īe demo nanika nomimasu"
+        }
+    ]
+}

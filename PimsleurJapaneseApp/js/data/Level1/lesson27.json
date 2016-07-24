@@ -1,0 +1,535 @@
+{
+    "name": "Lesson 27",
+    "trackName": "Pimsleur - Japanese 1 - Lesson 27.mp3",
+    "phrases": [
+        {
+            "English": "I'm going to Tokyo tomorrow",
+            "Japanese": "Ashita tokyo e ikimasu"
+        },
+        {
+            "English": "Does the taxi go to Tokyo?",
+            "Japanese": "Tokyo, takushii de ikimasu ka?"
+        },
+        {
+            "English": "No, the car will go",
+            "Japanese": "Īe, kuruma de ikimasu"
+        },
+        {
+            "English": "Do you work in Tokyo?",
+            "Japanese": "Tokyo de shigoto o shimasu ka?"
+        },
+        {
+            "English": "Yes and then I will see my friends",
+            "Japanese": "Hai, sore kara tomodachi ni aimasu"
+        },
+        {
+            "English": "How many days are you going to stay in Tokyo?",
+            "Japanese": "Nan nichi Tokyo ni imasu ka?"
+        },
+        {
+            "English": "Probably for a few days",
+            "Japanese": "Tabun, ni-san nichi"
+        },
+        {
+            "English": "Are the stores open?",
+            "Japanese": "Omise wa aite imasu ka"
+        },
+        {
+            "English": "No they are closed",
+            "Japanese": "Īe shimatte imasu"
+        },
+        {
+            "English": "Are the department stores also closed?",
+            "Japanese": "Depāto no shimatte imasu ka"
+        },
+        {
+            "English": "Yes, they are closed I am sure",
+            "Japanese": "Ae, shimatte imasu yo"
+        },
+        {
+            "English": "Why?",
+            "Japanese": "Dōshite"
+        },
+        {
+            "English": "Because it's already late",
+            "Japanese": "Mō osoi desu kara"
+        },
+        {
+            "English": "No its not late yet",
+            "Japanese": "Īe mada osoku wa arimasen"
+        },
+        {
+            "English": "It's already late I am sure",
+            "Japanese": "Mō osoi desu yo"
+        },
+        {
+            "English": "Are you going to work tomorrow",
+            "Japanese": "Ashita shigoto o shimasu ka"
+        },
+        {
+            "English": "I don't know but perhaps",
+            "Japanese": "Wakarimasen demo tabun"
+        },
+        {
+            "English": "I'm going to Osaka today",
+            "Japanese": "Kyō ōsaka e ikimasu"
+        },
+        {
+            "English": "What are you going to do over there",
+            "Japanese": "Achira de nani o shimasu ka"
+        },
+        {
+            "English": "I am going to see some friends",
+            "Japanese": "Tomodachi ni aimasu"
+        },
+        {
+            "English": "My friends",
+            "Japanese": "Watashi no tomodachi"
+        },
+        {
+            "English": "And then",
+            "Japanese": "Sorekara"
+        },
+        {
+            "English": "I am going to work for a few days",
+            "Japanese": "Ni-san nichi shigoto o shimasu"
+        },
+        {
+            "English": "How many days",
+            "Japanese": "Nan nichi"
+        },
+        {
+            "English": "3 days",
+            "Japanese": "Mekka"
+        },
+        {
+            "English": "Perhaps two days",
+            "Japanese": "Tabun ni nichi"
+        },
+        {
+            "English": "I have friends over there",
+            "Japanese": "Achira ni tomodachi ga imasu"
+        },
+        {
+            "English": "A few persons",
+            "Japanese": "Ni-san nin"
+        },
+        {
+            "English": "I have a few friends over there",
+            "Japanese": "Achira ni tomodachi ga ni-san nin imasu"
+        },
+        {
+            "English": "I am going to see Miss Tanaka",
+            "Japanese": "Tanaka san ni aimasu"
+        },
+        {
+            "English": "How many days are you going to stay?",
+            "Japanese": "Nan nichi imasu ka?"
+        },
+        {
+            "English": "How many days are you going to stay in Osaka?",
+            "Japanese": "Ōsaka ni nan nichi imasu ka?"
+        },
+        {
+            "English": "A few days",
+            "Japanese": "Ni-san nichi"
+        },
+        {
+            "English": "Three days",
+            "Japanese": "Mikka"
+        },
+        {
+            "English": "I am going to see friends",
+            "Japanese": "Tomodachi ni aimasu"
+        },
+        {
+            "English": "I have a few friends",
+            "Japanese": "Tomodachi ga ni-san nin imasu"
+        },
+        {
+            "English": "Are you going by car?",
+            "Japanese": "Kuruma de ikimasu ka?"
+        },
+        {
+            "English": "How many days?",
+            "Japanese": "Nan nichi?"
+        },
+        {
+            "English": "Are you going to work?",
+            "Japanese": "Shigoto o shimasu ka?"
+        },
+        {
+            "English": "What are you going to do over there?",
+            "Japanese": "Achira de nani o shimasu ka?"
+        },
+        {
+            "English": "I am going to work",
+            "Japanese": "Shigoto o shimasu"
+        },
+        {
+            "English": "And then I am going to see some friends",
+            "Japanese": "Sorekara tomodachi ni aimasu"
+        },
+        {
+            "English": "Are the stores open?",
+            "Japanese": "Omise wa aite imasu ka?"
+        },
+        {
+            "English": "Perhaps \/ Maybe \/ Probably",
+            "Japanese": "Tabun"
+        },
+        {
+            "English": "Because its not late yet",
+            "Japanese": "Mada osoku arimasen kara"
+        },
+        {
+            "English": 80,
+            "Japanese": "Hachi-ju"
+        },
+        {
+            "English": 85,
+            "Japanese": "Hachi-ju go"
+        },
+        {
+            "English": 90,
+            "Japanese": "Kyu-ju"
+        },
+        {
+            "English": 95,
+            "Japanese": "Kyu-ju go"
+        },
+        {
+            "English": 99,
+            "Japanese": "Kyu-ju kyu"
+        },
+        {
+            "English": 96,
+            "Japanese": "Kyu-ju roku"
+        },
+        {
+            "English": "How much is it?",
+            "Japanese": "Ikura desu ka?"
+        },
+        {
+            "English": "A hundred Yen",
+            "Japanese": "Hyaku en"
+        },
+        {
+            "English": "A hundred dollars",
+            "Japanese": "Hyaku doru"
+        },
+        {
+            "English": 150,
+            "Japanese": "Hyaku go-ju"
+        },
+        {
+            "English": 180,
+            "Japanese": "Hyaku hachi-ju"
+        },
+        {
+            "English": 199,
+            "Japanese": "Hyaku kyu-ju kyu"
+        },
+        {
+            "English": "It's too much",
+            "Japanese": "Ōsugimasu"
+        },
+        {
+            "English": "How much is it?",
+            "Japanese": "Ikura desu ka?"
+        },
+        {
+            "English": "170 yen",
+            "Japanese": "Hyaku nana-ju en"
+        },
+        {
+            "English": "I have",
+            "Japanese": "Motte imasu"
+        },
+        {
+            "English": "Do you have any money?",
+            "Japanese": "Okane o motte imasu ka?"
+        },
+        {
+            "English": "I don't have any",
+            "Japanese": "Zenzen motte imasen"
+        },
+        {
+            "English": "I don't speak",
+            "Japanese": "Hanashimasen"
+        },
+        {
+            "English": "I don't speak at all",
+            "Japanese": "Zenzen hanashimasen"
+        },
+        {
+            "English": "I want",
+            "Japanese": "Hoshii desu"
+        },
+        {
+            "English": "I want money",
+            "Japanese": "Okane ga hoshii desu"
+        },
+        {
+            "English": "I would like some money",
+            "Japanese": "Okane ga hoshiin desu ga"
+        },
+        {
+            "English": "I don't have any",
+            "Japanese": "Zenzen motte imasen"
+        },
+        {
+            "English": "I don't want",
+            "Japanese": "Hoshiku arimasen"
+        },
+        {
+            "English": "I don't want at all",
+            "Japanese": "Zenzen hoshiku arimasen"
+        },
+        {
+            "English": "I don't have any money at all",
+            "Japanese": "Okane o zenzen motte imasen"
+        },
+        {
+            "English": "I want to go back",
+            "Japanese": "Kaeritai desu"
+        },
+        {
+            "English": "I want to eat",
+            "Japanese": "Tabetai desu"
+        },
+        {
+            "English": "I don't want to eat",
+            "Japanese": "Tabetaku arimasen"
+        },
+        {
+            "English": "I want to return",
+            "Japanese": "Kaeritai desu"
+        },
+        {
+            "English": "I don't want to return",
+            "Japanese": "Kaeritaku arimasen"
+        },
+        {
+            "English": "I am going to go back",
+            "Japanese": "Kaerimasu"
+        },
+        {
+            "English": "I am going to back tomorrow",
+            "Japanese": "Ashita kaerimasu"
+        },
+        {
+            "English": "But I don't want to go back",
+            "Japanese": "Demo kaeritaku wa arimasen"
+        },
+        {
+            "English": "Why",
+            "Japanese": "Dōshite"
+        },
+        {
+            "English": "Are you going to go back tonight?",
+            "Japanese": "Konban kaerimasu ka?"
+        },
+        {
+            "English": "No I am not going to return",
+            "Japanese": "Ie kaerimasen"
+        },
+        {
+            "English": "No I am going to return tomorrow evening",
+            "Japanese": "Ie ashita no ban kaerimasu"
+        },
+        {
+            "English": "Me too",
+            "Japanese": "Watashi mo"
+        },
+        {
+            "English": "We are going to return",
+            "Japanese": "Watashitachi wa kaerimasu"
+        },
+        {
+            "English": "To America",
+            "Japanese": "Amerika e"
+        },
+        {
+            "English": "I am going to return to America",
+            "Japanese": "Amerika e kaerimasu"
+        },
+        {
+            "English": "We are going to return to America",
+            "Japanese": "Watashitachi wa amerika e kaerimasu"
+        },
+        {
+            "English": "But I don't want to return",
+            "Japanese": "Demo kaeritaku arimasen"
+        },
+        {
+            "English": "We are not going to return",
+            "Japanese": "Watashitachi wa kaerimasen"
+        },
+        {
+            "English": "We are going to return to America",
+            "Japanese": "Watashitachi wa amerika e kaerimasu"
+        },
+        {
+            "English": "But we don't want to return",
+            "Japanese": "Demo watashitachi wa kaeritaku arimasen"
+        },
+        {
+            "English": "Together with",
+            "Japanese": "To issho"
+        },
+        {
+            "English": "I am together with my wife",
+            "Japanese": "Kanai to issho desu"
+        },
+        {
+            "English": "Is your husband together with you?",
+            "Japanese": "Go-shujin wa anata to issho desu ka?"
+        },
+        {
+            "English": "Yes he is together with me",
+            "Japanese": "Ae, watashi to issho desu"
+        },
+        {
+            "English": "I am together with friends",
+            "Japanese": "Tomodachi to issho desu"
+        },
+        {
+            "English": "I want to go back together with you (when you are with someone and are doing some action, use 'issho ni')",
+            "Japanese": "Anata to issho ni kaeritai desu"
+        },
+        {
+            "English": "I am together with my husband (when you are with someone and aren't doing some action, use 'issho' without 'ni')",
+            "Japanese": "Shujin to issho desu"
+        },
+        {
+            "English": "I want to eat together with you",
+            "Japanese": "Anata to issho ni tabetaidesu"
+        },
+        {
+            "English": "I am going to return together with my wife",
+            "Japanese": "Kanai to issho ni kaerimasu"
+        },
+        {
+            "English": "I am not going back together with the children",
+            "Japanese": "Kodomo to issho ni kaerimasen"
+        },
+        {
+            "English": "Won't you drink together with me?",
+            "Japanese": "Watashi to issho ni nomimasen ka?"
+        },
+        {
+            "English": "I am going to eat together with my husband",
+            "Japanese": "Shujin to issho ni tabemasu"
+        },
+        {
+            "English": "Taxi",
+            "Japanese": "Takushī"
+        },
+        {
+            "English": "I am going by car",
+            "Japanese": "Kuruma de ikimasu"
+        },
+        {
+            "English": "Perhaps I will go by taxi",
+            "Japanese": "Tabun takushī de ikimasu"
+        },
+        {
+            "English": "Perhaps I will stay for 3 days",
+            "Japanese": "Tabun mikka imasu"
+        },
+        {
+            "English": "Or for 2 days",
+            "Japanese": "Soretomo hutsuka"
+        },
+        {
+            "English": "Perhaps I will stay for 2 days",
+            "Japanese": "Tabun hutsuka imasu"
+        },
+        {
+            "English": "Are you going to stay for 3 days",
+            "Japanese": "Mikka imasu ka"
+        },
+        {
+            "English": "No perhaps I will stay for 2 days",
+            "Japanese": "Ie tabun hutsuka imasu"
+        },
+        {
+            "English": "I want to stay a few days",
+            "Japanese": "Ni-san nichi itai desu"
+        },
+        {
+            "English": "I want to stay",
+            "Japanese": "Itai desu"
+        },
+        {
+            "English": "Because I want to stay",
+            "Japanese": "Itai desu kara"
+        },
+        {
+            "English": "Because I want to stay here",
+            "Japanese": "Koko ni itai desu kara"
+        },
+        {
+            "English": "I want to stay here for a few days",
+            "Japanese": "Koko ni ni-san nichi itai desu"
+        },
+        {
+            "English": "I don't want to return",
+            "Japanese": "Kaeritaku arimasen"
+        },
+        {
+            "English": "I want to stay together with you",
+            "Japanese": "Anata to issho ni itai desu"
+        },
+        {
+            "English": "I want to stay in Tokyo",
+            "Japanese": "Tōkyō ni itai desu"
+        },
+        {
+            "English": "Together with you",
+            "Japanese": "Anata to issho ni"
+        },
+        {
+            "English": "Together with you I want to stay in Tokyo",
+            "Japanese": "Anata to issho ni Tōkyō ni itai desu"
+        },
+        {
+            "English": "I am not going to return today",
+            "Japanese": "Kyō kaerimasen"
+        },
+        {
+            "English": "I will stay in Tokyo",
+            "Japanese": "Tōkyō ni imasu"
+        },
+        {
+            "English": "I am going to see friends",
+            "Japanese": "Tomodachi ni aimasu"
+        },
+        {
+            "English": "The friends live in Tokyo",
+            "Japanese": "Tomodachi wa Tōkyō ni sunde imasu"
+        },
+        {
+            "English": "Children",
+            "Japanese": "Kodomo"
+        },
+        {
+            "English": "I will eat together with the children",
+            "Japanese": "Kodomo to issho ni tabemasu"
+        },
+        {
+            "English": "Won't you eat together with me",
+            "Japanese": "Watashi to issho ni tabemasen ga"
+        },
+        {
+            "English": "Won't you go back together with me",
+            "Japanese": "Watashi to issho ni kaerimasen ka"
+        },
+        {
+            "English": "Yes I want to go back",
+            "Japanese": "Ae, kaeritai desu"
+        }
+    ],
+    "startedOn": "08.06.2016 | 05.28.33 pm"
+}

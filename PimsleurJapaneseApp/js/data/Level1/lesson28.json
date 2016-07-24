@@ -1,0 +1,483 @@
+{
+    "name": "Lesson 28",
+    "trackName": "Pimsleur - Japanese 1 - Lesson 28.mp3",
+    "phrases": [
+        {
+            "English": "Mr. Jones, it's already late, isn't it? You aren't going home yet?",
+            "Japanese": "Jones san, mo osoi desu ne, mada kaerimasen ka?"
+        },
+        {
+            "English": "I want to go back but there is a lot of work. I want to return to America",
+            "Japanese": "Kaeritai desu, demo takusan shigoto ga arimasu. Watashi wa amerika e kaerimasu"
+        },
+        {
+            "English": "To America?",
+            "Japanese": "Amerika e?"
+        },
+        {
+            "English": "Yes but I don't really want to go back. I want to stay in Japan",
+            "Japanese": "Ae, demo honto ni kaeritaku arimasen. Nihon ni itai desu"
+        },
+        {
+            "English": 100,
+            "Japanese": "Hyaku"
+        },
+        {
+            "English": "150 yen",
+            "Japanese": "Hyaku go-ju en"
+        },
+        {
+            "English": "I want to go back",
+            "Japanese": "Kaeritai desu"
+        },
+        {
+            "English": "I don't want to go back",
+            "Japanese": "Kaeritaku arimasen"
+        },
+        {
+            "English": "I'm not going back",
+            "Japanese": "Kaerimasen"
+        },
+        {
+            "English": "Are you returning now?",
+            "Japanese": "Ima kaerimasu ka?"
+        },
+        {
+            "English": "No later I will return",
+            "Japanese": "Ie atode kaerimasu"
+        },
+        {
+            "English": "I want to stay here",
+            "Japanese": "Koko ni itai desu"
+        },
+        {
+            "English": "I don't want to return",
+            "Japanese": "Kaeritaku arimasen"
+        },
+        {
+            "English": "As for today I am not going to return",
+            "Japanese": "Kyō wa kaerimasen"
+        },
+        {
+            "English": "How much money do you have?",
+            "Japanese": "Okane o ikura motte imasu ka?"
+        },
+        {
+            "English": "199 yen",
+            "Japanese": "Hyaku kyu-ju kyu en"
+        },
+        {
+            "English": "I don't have any at all",
+            "Japanese": "Zenzen motte imasen"
+        },
+        {
+            "English": "Please give me 90 yen",
+            "Japanese": "Kyu-ju en kudasai"
+        },
+        {
+            "English": "I will give you 96 yen (Remember you use ‘agemasu’ only when you are giving something to someone)",
+            "Japanese": "Kyu-ju roku en agemasu"
+        },
+        {
+            "English": "Give me 120 yen please",
+            "Japanese": "Hyaku ni-ju en kudasai"
+        },
+        {
+            "English": "I will give u 125 yen",
+            "Japanese": "Hyaku ni-ju go en agemasu"
+        },
+        {
+            "English": "A few days",
+            "Japanese": "Ni-san nichi"
+        },
+        {
+            "English": "I want to stay for a few days",
+            "Japanese": "Ni-san nichi itai desu"
+        },
+        {
+            "English": "Want to spend\/pass time",
+            "Japanese": "Sugoshitai desu"
+        },
+        {
+            "English": "I want to spend a few days",
+            "Japanese": "Ni-san nichi sugoshitai desu"
+        },
+        {
+            "English": "In Tokyo",
+            "Japanese": "Tokyo de"
+        },
+        {
+            "English": "I want to spend a few days over there",
+            "Japanese": "Achira de ni-san nichi sugoshitai desu"
+        },
+        {
+            "English": "Perhaps I am going to see some friends",
+            "Japanese": "Tabun tomodachi ni aimasu"
+        },
+        {
+            "English": "Are you going by taxi?",
+            "Japanese": "Takushī de ikimasu ka?"
+        },
+        {
+            "English": "No I am going by car",
+            "Japanese": "Ie kuruma de ikimasu"
+        },
+        {
+            "English": "Won’t you go back together with me?",
+            "Japanese": "Watashi to issho ni kaerimasen ka?"
+        },
+        {
+            "English": "Yes, I want to go back together with you",
+            "Japanese": "Ae, anata to issho ni kaeritai desu"
+        },
+        {
+            "English": "Alone",
+            "Japanese": "Hitori de"
+        },
+        {
+            "English": "I want to return alone",
+            "Japanese": "Hitori de kaeritai desu"
+        },
+        {
+            "English": "Are you going to go back alone?",
+            "Japanese": "Hitori de kaerimasu ka?"
+        },
+        {
+            "English": "No I want to go back together with you",
+            "Japanese": "Īe anata to issho ni kaeritai desu"
+        },
+        {
+            "English": "I don't want to return alone",
+            "Japanese": "Hitori de kaeritaku arimasen"
+        },
+        {
+            "English": "Are you going to Tokyo alone?",
+            "Japanese": "Hitori de Tōkyō e ikimasu ka?"
+        },
+        {
+            "English": "Perhaps I will go alone",
+            "Japanese": "Tabun hitori de ikimasu"
+        },
+        {
+            "English": "I want to spend 2 days",
+            "Japanese": "Hutsuka sugoshitai desu"
+        },
+        {
+            "English": "In Tokyo",
+            "Japanese": "Tokyo de"
+        },
+        {
+            "English": "I want to spend a few days over there",
+            "Japanese": "Achira de ni-san nichi sugoshitai desu"
+        },
+        {
+            "English": "I am alone (when you're by yourself and not doing any action)",
+            "Japanese": "Hitori desu"
+        },
+        {
+            "English": "Are you alone?",
+            "Japanese": "Hitori desu ka?"
+        },
+        {
+            "English": "No I am with some friends",
+            "Japanese": "Ie tomodachi to issho desu"
+        },
+        {
+            "English": "Are you together with your family?",
+            "Japanese": "Go-kazoku to issho desu ka?"
+        },
+        {
+            "English": "No I am alone",
+            "Japanese": "Ie hitori desu"
+        },
+        {
+            "English": "Are you alone?",
+            "Japanese": "Hitori desu ka?"
+        },
+        {
+            "English": "No I am together with my husband",
+            "Japanese": "Īe shujin to issho desu"
+        },
+        {
+            "English": "Then",
+            "Japanese": "Jā"
+        },
+        {
+            "English": "I am going to return alone",
+            "Japanese": "Hitori de kaerimasu"
+        },
+        {
+            "English": "I am going to work",
+            "Japanese": "Shigoto o shimasu"
+        },
+        {
+            "English": "And then I will go to Tokyo",
+            "Japanese": "Sorekara Tōkyō e ikimasu"
+        },
+        {
+            "English": "By car",
+            "Japanese": "Kuruma de"
+        },
+        {
+            "English": "I am going to see friends",
+            "Japanese": "Tomodachi ni aimasu"
+        },
+        {
+            "English": "I am together with my wife",
+            "Japanese": "Kanai to issho desu"
+        },
+        {
+            "English": "I'm going together with my wife",
+            "Japanese": "Kanai to issho ni ikimasu"
+        },
+        {
+            "English": "The children are in America",
+            "Japanese": "Kodomo wa amerika ni imasu"
+        },
+        {
+            "English": "We are here",
+            "Japanese": "Watashitachi wa koko ni imasu"
+        },
+        {
+            "English": "Ago \/ before",
+            "Japanese": "Mae"
+        },
+        {
+            "English": "Because",
+            "Japanese": "Kara"
+        },
+        {
+            "English": "Since 2 days ago",
+            "Japanese": "Hutsuka mae kara"
+        },
+        {
+            "English": "Since a few days ago",
+            "Japanese": "Ni-san nichi mae kara"
+        },
+        {
+            "English": "We're here",
+            "Japanese": "Watashitachi wa koko ni imasu"
+        },
+        {
+            "English": "How many days",
+            "Japanese": "Nan nichi"
+        },
+        {
+            "English": "Since how many days ago?",
+            "Japanese": "Nan nichi mae kara?"
+        },
+        {
+            "English": "Since 3 days ago",
+            "Japanese": "Mikka mae kara"
+        },
+        {
+            "English": "How much time  \/ hour",
+            "Japanese": "Jikan"
+        },
+        {
+            "English": "3 hours",
+            "Japanese": "San jikan"
+        },
+        {
+            "English": "How many hours?",
+            "Japanese": "Nan jikan"
+        },
+        {
+            "English": "A few hours",
+            "Japanese": "Ni-san jikan"
+        },
+        {
+            "English": "Since how much time ago?",
+            "Japanese": "Nan jikan mae kara?"
+        },
+        {
+            "English": "Since a few hours ago",
+            "Japanese": "Ni-san jikan mae kara"
+        },
+        {
+            "English": "Since how many days ago?",
+            "Japanese": "Nan nichi mae kara?"
+        },
+        {
+            "English": "Since a few days ago",
+            "Japanese": "Ni-san nichi mae kara"
+        },
+        {
+            "English": "I have been here",
+            "Japanese": "Koko ni imasu"
+        },
+        {
+            "English": "Since when?",
+            "Japanese": "Itsu kara?"
+        },
+        {
+            "English": "Since when are you here?",
+            "Japanese": "Itsu kara koko ni imasu ka?"
+        },
+        {
+            "English": "Since a few days ago",
+            "Japanese": "Ni-san nichi mae kara"
+        },
+        {
+            "English": "A few days",
+            "Japanese": "Ni-san nichi"
+        },
+        {
+            "English": "How many days?",
+            "Japanese": "Nan nichi?"
+        },
+        {
+            "English": "Are you going to stay?",
+            "Japanese": "Imasu ka?"
+        },
+        {
+            "English": "How many days are you going to stay? ",
+            "Japanese": "Nan nichi imasu ka?"
+        },
+        {
+            "English": "Four days",
+            "Japanese": "Yokka"
+        },
+        {
+            "English": "I don't understand",
+            "Japanese": "Wakarimasen"
+        },
+        {
+            "English": "What does that mean?",
+            "Japanese": "Sore wa dōyuu imi desu ka?"
+        },
+        {
+            "English": "Meaning",
+            "Japanese": "Imi"
+        },
+        {
+            "English": "That \/ it",
+            "Japanese": "Sore"
+        },
+        {
+            "English": "What sort of?",
+            "Japanese": "Dōyuu (toyu)"
+        },
+        {
+            "English": "What does ‘mikka’ mean?",
+            "Japanese": "‘Mikka’ wa dōyuu imi desu ka?"
+        },
+        {
+            "English": "What does that mean?",
+            "Japanese": "Sore wa dōyuu imi desu ka?"
+        },
+        {
+            "English": "That means 3 days",
+            "Japanese": "‘3 days’ dōyuu imi desu"
+        },
+        {
+            "English": "What does ‘yokka’ mean?",
+            "Japanese": "‘Yokka’ wa dōyuu imi desu ka?"
+        },
+        {
+            "English": "That means 4 days",
+            "Japanese": "‘4 days’ dōyuu imi desu"
+        },
+        {
+            "English": "What does ‘hutsuka’ mean?",
+            "Japanese": "‘Hutsuka’ wa dōyuu imi desu ka?"
+        },
+        {
+            "English": "That means 2 days",
+            "Japanese": "‘2 days’ dōyuu imi desu"
+        },
+        {
+            "English": "What does ‘sugoshitai’ mean?",
+            "Japanese": "‘Sugoshitai’ wa dōyuu imi desu ka?"
+        },
+        {
+            "English": "That means want to spend",
+            "Japanese": "‘Want to spend’ dōyuu imi desu"
+        },
+        {
+            "English": "Ahh, understood",
+            "Japanese": "Wakarimashita"
+        },
+        {
+            "English": "How many days?",
+            "Japanese": "Nan nichi?"
+        },
+        {
+            "English": "How many hours?",
+            "Japanese": "Nan jikan?"
+        },
+        {
+            "English": "I want to spend a few days",
+            "Japanese": "Ni-san nichi sugoshitai desu"
+        },
+        {
+            "English": "I want to stay 4 days",
+            "Japanese": "Yokka itai desu"
+        },
+        {
+            "English": "But I don't have time",
+            "Japanese": "Demo jikan ga arimasen"
+        },
+        {
+            "English": "‘Jikan’ what does that mean?",
+            "Japanese": "‘Jikan’ sore wa dōyuu imi desu ka?"
+        },
+        {
+            "English": "What does ‘Jikan’ mean?",
+            "Japanese": "‘Jikan’ wa dōyuu imi desu ka?"
+        },
+        {
+            "English": "It means time",
+            "Japanese": "‘Time’ dōyuu imi desu"
+        },
+        {
+            "English": "Since when?",
+            "Japanese": "Itsu kara?"
+        },
+        {
+            "English": "Since 4 days ago",
+            "Japanese": "Yokka mae kara"
+        },
+        {
+            "English": "Since when you are in Tokyo?",
+            "Japanese": "Itsu kara Tōkyō ni imasu ka?"
+        },
+        {
+            "English": "I want to stay here",
+            "Japanese": "Koko ni itai desu"
+        },
+        {
+            "English": "I don't want to go back",
+            "Japanese": "Kaeritaku arimasen"
+        },
+        {
+            "English": "As for today I am not going back",
+            "Japanese": "Kyō wa kaerimasen"
+        },
+        {
+            "English": "Are you alone?",
+            "Japanese": "Hitori desu ka?"
+        },
+        {
+            "English": "Yes, I'm alone",
+            "Japanese": "Ae, hitori desu"
+        },
+        {
+            "English": "But tomorrow I am with my friend",
+            "Japanese": "Demo ashita wa tomodachi to issho desu"
+        },
+        {
+            "English": "I am going to work",
+            "Japanese": "Shigoto o shimasu"
+        },
+        {
+            "English": "Since when you are here?",
+            "Japanese": "Itsu kara koko ni imasu ka?"
+        },
+        {
+            "English": "Since 4 days ago",
+            "Japanese": "Yokka mae kara"
+        }
+    ],
+    "startedOn": "18.07.2016 | 04.23.16 pm"
+}

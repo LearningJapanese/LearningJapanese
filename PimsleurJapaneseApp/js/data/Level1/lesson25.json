@@ -1,0 +1,495 @@
+{
+    "name": "Lesson 25",
+    "trackName": "Pimsleur - Japanese 1 - Lesson 25.mp3",
+    "phrases": [
+        {
+            "English": "Which is the route to Tokyo?",
+            "Japanese": "Tokyo e iku michi wa dore desu ka?"
+        },
+        {
+            "English": "It's that direction",
+            "Japanese": "Achira desu"
+        },
+        {
+            "English": "The route to Yokohama?",
+            "Japanese": "Yokohama e iku michi wa?"
+        },
+        {
+            "English": "Yokohama?",
+            "Japanese": "Yokohama?"
+        },
+        {
+            "English": "Is it on the right?",
+            "Japanese": "Migi desu ka?"
+        },
+        {
+            "English": "No, it's on the left",
+            "Japanese": "Īe, hidari desu"
+        },
+        {
+            "English": "Thank you very much",
+            "Japanese": "Domo arigato gozaimasu"
+        },
+        {
+            "English": "You are welcome",
+            "Japanese": "Do itashimashite"
+        },
+        {
+            "English": "The road to go to Tokyo",
+            "Japanese": "Tokyo e iku michi"
+        },
+        {
+            "English": "Which is it?",
+            "Japanese": "Dore desu ka?"
+        },
+        {
+            "English": "It's this one",
+            "Japanese": "Kore desu"
+        },
+        {
+            "English": "It's on the right",
+            "Japanese": "Migi desu"
+        },
+        {
+            "English": "No it's on the left",
+            "Japanese": "Īe, hidari desu"
+        },
+        {
+            "English": "I'm goint to Tokyo",
+            "Japanese": "Tokyo e ikimasu"
+        },
+        {
+            "English": "Fill it up please",
+            "Japanese": "Mantan ni shite kudasai"
+        },
+        {
+            "English": "Which is the route to go to Tokyo?",
+            "Japanese": "Tokyo e iku michi wa dore desu ka?"
+        },
+        {
+            "English": "It's that direction",
+            "Japanese": "Achira desu"
+        },
+        {
+            "English": "No it's this one",
+            "Japanese": "Īe, kore desu"
+        },
+        {
+            "English": "The route to go to Tokyo is this one",
+            "Japanese": "Tokyo e iku michi wa kore desu"
+        },
+        {
+            "English": "Go to the right please",
+            "Japanese": "Migi e itte kudasai"
+        },
+        {
+            "English": "And then",
+            "Japanese": "Sore kara"
+        },
+        {
+            "English": "Go to the left please",
+            "Japanese": "Hidari e itte kudasai"
+        },
+        {
+            "English": "Wait a minute please",
+            "Japanese": "Chotto matte kudasai"
+        },
+        {
+            "English": "It's not on the right",
+            "Japanese": "Migi ja arimasen"
+        },
+        {
+            "English": "It's on the left",
+            "Japanese": "Hidari desu"
+        },
+        {
+            "English": "Ok thanks",
+            "Japanese": "Ok domo arigatou"
+        },
+        {
+            "English": "Seventy Two",
+            "Japanese": "Nana-ju ni"
+        },
+        {
+            "English": "Seventy nine",
+            "Japanese": "Nana-ju kyu"
+        },
+        {
+            "English": "How many kilometres are there?",
+            "Japanese": "Nan kiro arimasu ka?"
+        },
+        {
+            "English": "There are 71 kms",
+            "Japanese": "Nana-ju ichi koro arimasu"
+        },
+        {
+            "English": "I'm going to Yokohama",
+            "Japanese": "Yokohama e ikimasu"
+        },
+        {
+            "English": "Then go straight ahead",
+            "Japanese": "Ja massugu itte kudasai"
+        },
+        {
+            "English": "And then",
+            "Japanese": "Sore kara"
+        },
+        {
+            "English": "Go to the right please",
+            "Japanese": "Migi e itte kudasai"
+        },
+        {
+            "English": "Which is the road to go to Yokohama",
+            "Japanese": "Yokohama e iku michi wa dore desu ka?"
+        },
+        {
+            "English": "Wait a minute please",
+            "Japanese": "Chotto matte kudasai"
+        },
+        {
+            "English": "Go to the left please",
+            "Japanese": "Hidari e itte kudasai"
+        },
+        {
+            "English": "Is Yokohama far?",
+            "Japanese": "Yokohama o toi desu ka?"
+        },
+        {
+            "English": "It's not far",
+            "Japanese": "Toku arimasen"
+        },
+        {
+            "English": "There are seventy kilometres",
+            "Japanese": "Nana-ju kiro arimasu"
+        },
+        {
+            "English": "There are eighty kilometres",
+            "Japanese": "Hachi-ju kiro arimasu"
+        },
+        {
+            "English": "Eighty five",
+            "Japanese": "Hachi-ju go"
+        },
+        {
+            "English": "Eighty two",
+            "Japanese": "Hachi-ju ni"
+        },
+        {
+            "English": "Fill it up please",
+            "Japanese": "Mantan ni shite kudasai"
+        },
+        {
+            "English": "10 kitres could you please",
+            "Japanese": "Ju litta onegai shimasu"
+        },
+        {
+            "English": "Is Tokyo far away?",
+            "Japanese": "Tokyo wa toi desu ka?"
+        },
+        {
+            "English": "No, it's not far",
+            "Japanese": "Īe, toku arimasen"
+        },
+        {
+            "English": "Osaka and Yokohama",
+            "Japanese": "Osaka to Yokohama"
+        },
+        {
+            "English": "The road to go to Osaka",
+            "Japanese": "Osaka e iku michi"
+        },
+        {
+            "English": "Which is it?",
+            "Japanese": "Dore desu ka?"
+        },
+        {
+            "English": "It's that direction",
+            "Japanese": "Achira desu"
+        },
+        {
+            "English": "Ok, thanks",
+            "Japanese": "Ok arigatou"
+        },
+        {
+            "English": "I'm going to buy something",
+            "Japanese": "Nani-ka kaimasu"
+        },
+        {
+            "English": "In Tokyo",
+            "Japanese": "Tokyo de"
+        },
+        {
+            "English": "For my children",
+            "Japanese": "Watashi no kodomo ni"
+        },
+        {
+            "English": "Can I buy something?",
+            "Japanese": "Nanika kaemasu ka?"
+        },
+        {
+            "English": "As for today you can't buy",
+            "Japanese": "Kyō-wa kaemasen?"
+        },
+        {
+            "English": "Why?",
+            "Japanese": "Doshite? (Doushh-tey)"
+        },
+        {
+            "English": "Why is it?",
+            "Japanese": "Doshite desu ka?"
+        },
+        {
+            "English": "The stores\/shops",
+            "Japanese": "Omise"
+        },
+        {
+            "English": "The stores\/shops are closed",
+            "Japanese": "Omise wa shimatte imasu"
+        },
+        {
+            "English": "Is\/Are closed",
+            "Japanese": "Shimatte imasu"
+        },
+        {
+            "English": "Department Stores",
+            "Japanese": "Depato"
+        },
+        {
+            "English": "Are the department stores closed",
+            "Japanese": "Depato mo shimatte imasu ka?"
+        },
+        {
+            "English": "Yes they are closed",
+            "Japanese": "Ae, shimatte imasu"
+        },
+        {
+            "English": "Because\/Since",
+            "Japanese": "Kara (In Japanese because \"kara\" is always at the end of the statement)"
+        },
+        {
+            "English": "Late",
+            "Japanese": "Osoi"
+        },
+        {
+            "English": "It's late",
+            "Japanese": "Osoi desu"
+        },
+        {
+            "English": "Because it's late",
+            "Japanese": "Osoi desu kara (In Japanese because \"kara\" is always at the end of the statement)"
+        },
+        {
+            "English": "Is it late?",
+            "Japanese": "Osoi desu ka?"
+        },
+        {
+            "English": "Try to say please",
+            "Japanese": "To iute mite kudasai"
+        },
+        {
+            "English": "Big",
+            "Japanese": "Oukii"
+        },
+        {
+            "English": "It's not big",
+            "Japanese": "Oukiku arimasen"
+        },
+        {
+            "English": "It's not late",
+            "Japanese": "Osoku arimasen"
+        },
+        {
+            "English": "Already",
+            "Japanese": "Mo"
+        },
+        {
+            "English": "It's already late",
+            "Japanese": "Mo osoi desu"
+        },
+        {
+            "English": "Because it's already late",
+            "Japanese": "Mo osoi desu kara"
+        },
+        {
+            "English": "Are the department stores also closed?",
+            "Japanese": "Depato mo shimatte imasu ka?"
+        },
+        {
+            "English": "Because it's nine o'clock",
+            "Japanese": "Ku-ji desu kara"
+        },
+        {
+            "English": "Because it's already nine o'clock",
+            "Japanese": "Mo ku-ji desu kara"
+        },
+        {
+            "English": "Eighty",
+            "Japanese": "Hachi-ju"
+        },
+        {
+            "English": "Eighty kilometres",
+            "Japanese": "Hachi-ju kiro"
+        },
+        {
+            "English": "82 and 85",
+            "Japanese": "Hachi-ju go to hachi-ju ni"
+        },
+        {
+            "English": "Which is the road?",
+            "Japanese": "Michi wa dore desu ka?"
+        },
+        {
+            "English": "It's that direction",
+            "Japanese": "Achira desu"
+        },
+        {
+            "English": "Straight ahead",
+            "Japanese": "Massugu"
+        },
+        {
+            "English": "And then",
+            "Japanese": "Sore kara"
+        },
+        {
+            "English": "On the right",
+            "Japanese": "Migi"
+        },
+        {
+            "English": "No, on the left",
+            "Japanese": "Īe, hidari"
+        },
+        {
+            "English": "Is it that direction?",
+            "Japanese": "Achira desu ka?"
+        },
+        {
+            "English": "No it's this one",
+            "Japanese": "Īe, kore desu"
+        },
+        {
+            "English": "Are the shops closed?",
+            "Japanese": "Omiso wo shimatte imasu ka?"
+        },
+        {
+            "English": "No they are open",
+            "Japanese": "Īe, aite imasu"
+        },
+        {
+            "English": "Open",
+            "Japanese": "Aite (aai-tey)"
+        },
+        {
+            "English": "It's not late yet",
+            "Japanese": "Mada osoku arimasen"
+        },
+        {
+            "English": "Because it's not late yet",
+            "Japanese": "Mada osoku arimasen kara"
+        },
+        {
+            "English": "Are the department stores open too?",
+            "Japanese": "Depato mo aite imasu ka?"
+        },
+        {
+            "English": "Yes, they are open",
+            "Japanese": "Ae, aite imasu"
+        },
+        {
+            "English": "What time is it?",
+            "Japanese": "Nan-ji desu ka?"
+        },
+        {
+            "English": "It's eight o'clock",
+            "Japanese": "Hachi-ji desu"
+        },
+        {
+            "English": "Are the department stores open?",
+            "Japanese": "Depato wa aite imasu ka?"
+        },
+        {
+            "English": "No they are closed",
+            "Japanese": "Īe, shimatte imasu"
+        },
+        {
+            "English": "Why?",
+            "Japanese": "Doshite"
+        },
+        {
+            "English": "Beacuse it's already late",
+            "Japanese": "Mo osoi desu kara"
+        },
+        {
+            "English": "No, it's not late",
+            "Japanese": "Īe, osoku arimasen"
+        },
+        {
+            "English": "It's nine o'clock",
+            "Japanese": "Ku-ji desu"
+        },
+        {
+            "English": "It's not late yet",
+            "Japanese": "Mada osoku arimasen"
+        },
+        {
+            "English": "It's already late",
+            "Japanese": "Mo osoi desu"
+        },
+        {
+            "English": "It's late I'm sure",
+            "Japanese": "Osoi desu yo"
+        },
+        {
+            "English": "I'm sure\/Fore sure",
+            "Japanese": "Yo (It's frequently placed at the end of the sentence for emphasis)"
+        },
+        {
+            "English": "It's already late, I'm sure",
+            "Japanese": "Mo osoi desu yo"
+        },
+        {
+            "English": "Are the stores open?",
+            "Japanese": "Omise o aite imasu ka?"
+        },
+        {
+            "English": "Yes, they are open I'm sure",
+            "Japanese": "Ae, aite imasu yo"
+        },
+        {
+            "English": "I'm going to buy something",
+            "Japanese": "Nani-ka kaimasu"
+        },
+        {
+            "English": "For my children",
+            "Japanese": "Watashi no kodomo ni"
+        },
+        {
+            "English": "In Tokyo",
+            "Japanese": "Tokyo de"
+        },
+        {
+            "English": "As for today it's already late",
+            "Japanese": "Kyō wa mo osoi desu"
+        },
+        {
+            "English": "Because it's already ten o'clock",
+            "Japanese": "Mo ju-ji desu kara"
+        },
+        {
+            "English": "Trully it's late I'm sure",
+            "Japanese": "Hontou ni osoi desu yo"
+        },
+        {
+            "English": "Then",
+            "Japanese": "Ja"
+        },
+        {
+            "English": "Tomorrow",
+            "Japanese": "Ashita"
+        },
+        {
+            "English": "For my husband",
+            "Japanese": "Shujin ni"
+        }
+    ],
+    "startedOn": "08.06.2016 | 03.03.23 pm"
+}

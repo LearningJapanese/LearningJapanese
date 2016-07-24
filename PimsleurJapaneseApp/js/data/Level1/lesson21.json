@@ -1,0 +1,463 @@
+{
+    "name": "Lesson 21",
+    "trackName": "Pimsleur - Japanese 1 - Lesson 21.mp3",
+    "phrases": [
+        {
+            "English": "Mr Jones and Mrs Suzuki are talking",
+            "Japanese": "Jones san to Suzuki san ga hanashite imasu"
+        },
+        {
+            "English": "Mr Jones do you have any children?",
+            "Japanese": "Jones san kodomo san ga imasu ka?"
+        },
+        {
+            "English": "Yes, I have three. What about you Mr. Suzuki?",
+            "Japanese": "Ae, san-nin imasu. Suzuki san wa?"
+        },
+        {
+            "English": "I have a boy and a girl",
+            "Japanese": "Otoko-noko to onna-noko ga imasu"
+        },
+        {
+            "English": "Are the children big?",
+            "Japanese": "Kodomo san wa oukii desu ka?"
+        },
+        {
+            "English": "The boy is big but the girl is little",
+            "Japanese": "Onna-noko wa oukii desu, demo otoko-noko wa chiisai desu"
+        },
+        {
+            "English": "Mr. Jones, do the children live in Japan?",
+            "Japanese": "Jones san, kodomo san wa nihon ni sunde imasu ka?"
+        },
+        {
+            "English": "No, they live in America.",
+            "Japanese": "Iie, amerika ni sunde imasu"
+        },
+        {
+            "English": "Please come in",
+            "Japanese": "Douzo ohairi kudasai"
+        },
+        {
+            "English": "How do you do?",
+            "Japanese": "Hajimemashite"
+        },
+        {
+            "English": "Pleased to meet you.",
+            "Japanese": "Douzou yorishiku"
+        },
+        {
+            "English": "Are your children with you?",
+            "Japanese": "Kodomo san to issho desu ka?"
+        },
+        {
+            "English": "Yes I'm with the children",
+            "Japanese": "Ae kodomo to issho desu"
+        },
+        {
+            "English": "Who is that?",
+            "Japanese": "Dare desu ka?"
+        },
+        {
+            "English": "I'm with my wife",
+            "Japanese": "Kanai to issho desu"
+        },
+        {
+            "English": "Where do you live?",
+            "Japanese": "Doko ni sunde imasu ka?"
+        },
+        {
+            "English": "I live in Shinjuku",
+            "Japanese": "Shinjuku ni sunde imasu"
+        },
+        {
+            "English": "Ah, is that so?",
+            "Japanese": "Ah so desu ka?"
+        },
+        {
+            "English": "Mr. Itou lives in Shinjuku too?",
+            "Japanese": "Itou san mo Shinjuku ni sunde imasu"
+        },
+        {
+            "English": "How many children do you have?",
+            "Japanese": "Nan-nin kodomo san ga imasu ka?"
+        },
+        {
+            "English": "I have three",
+            "Japanese": "San-nin imasu"
+        },
+        {
+            "English": "I have four",
+            "Japanese": "Yo-nin imasu"
+        },
+        {
+            "English": "I don't have (I don't have any children)",
+            "Japanese": "Imasen"
+        },
+        {
+            "English": "As for girls I don't have any",
+            "Japanese": "Onna-noko wa imasen"
+        },
+        {
+            "English": "I don't have any boys",
+            "Japanese": "Otoko noko wa imasen"
+        },
+        {
+            "English": "The boy is bug",
+            "Japanese": "Otoko-noka wa oukii desu"
+        },
+        {
+            "English": "At my place",
+            "Japanese": "Watashi no tokoro de"
+        },
+        {
+            "English": "Your",
+            "Japanese": "Anata no"
+        },
+        {
+            "English": "We",
+            "Japanese": "Watashitachi"
+        },
+        {
+            "English": "Our",
+            "Japanese": "Watashitachi no"
+        },
+        {
+            "English": "Our child is not big",
+            "Japanese": "Watashitachi no kodomo wa oukiku arimasen"
+        },
+        {
+            "English": "A big boy",
+            "Japanese": "Oukii otoko-noko"
+        },
+        {
+            "English": "I have a big boy",
+            "Japanese": "Oukii otoko-no ga imasu"
+        },
+        {
+            "English": "My wife and I",
+            "Japanese": "Kanai to watashi"
+        },
+        {
+            "English": "Our big girl",
+            "Japanese": "Watashitachi no oukii onna-noko"
+        },
+        {
+            "English": "We have a big boy",
+            "Japanese": "Watashitachi wa oukii otoko-noko ga imasu"
+        },
+        {
+            "English": "I would like to drink water",
+            "Japanese": "Mizu ga nomitain desu ga"
+        },
+        {
+            "English": "I would like to have water",
+            "Japanese": "Mizu ga hoshin desu ga"
+        },
+        {
+            "English": "We would like to have a girl",
+            "Japanese": "Watashitachi wa onna-noko ga hoshin desu ga"
+        },
+        {
+            "English": "How many children do you have?",
+            "Japanese": "Nan-nin kodomo san ga imasu ka?"
+        },
+        {
+            "English": "I have four",
+            "Japanese": "Yo-nin imasu"
+        },
+        {
+            "English": "I have three",
+            "Japanese": "San-nin imasu"
+        },
+        {
+            "English": "Are the children bug?",
+            "Japanese": "Kodomo san wa oukii desu ka?"
+        },
+        {
+            "English": "No they are not big",
+            "Japanese": "Iye oukiku arimasen"
+        },
+        {
+            "English": "One person",
+            "Japanese": "Hitori"
+        },
+        {
+            "English": "I have one girl",
+            "Japanese": "Hitori onna-noko ga imasu"
+        },
+        {
+            "English": "The child is not big",
+            "Japanese": "Kodomo wa oukiku arimasen"
+        },
+        {
+            "English": "Two persons",
+            "Japanese": "Futari"
+        },
+        {
+            "English": "I have two boys",
+            "Japanese": "Futari otoko-noko ga imasu"
+        },
+        {
+            "English": "I have three girls",
+            "Japanese": "San-nin onna-noko ga imasu"
+        },
+        {
+            "English": "A big boy. The boy is big.",
+            "Japanese": "Oukii otoko-noko. Otoko-noko wa oukii desu"
+        },
+        {
+            "English": "Our girl is not big",
+            "Japanese": "Watashitachi wa onna-noko wa oukiku arimasen"
+        },
+        {
+            "English": "Where are your children?",
+            "Japanese": "Kodomo san wa doko ni imasu ka?"
+        },
+        {
+            "English": "Too exist",
+            "Japanese": "Imasu"
+        },
+        {
+            "English": "He is in washington",
+            "Japanese": "Washington ni imasu"
+        },
+        {
+            "English": "As for the boy, he is in Washington",
+            "Japanese": "Otoko-noko wa Washington ni imasu"
+        },
+        {
+            "English": "The big boy is in Washington",
+            "Japanese": "Oukii otoko-noko wa Washington ni imasu"
+        },
+        {
+            "English": "The little boy \/ The small boy",
+            "Japanese": "Chiisai otoko-noko"
+        },
+        {
+            "English": "He is with Mr. Itou",
+            "Japanese": "Itou san to issho desu"
+        },
+        {
+            "English": "As for the little boy, he is with me",
+            "Japanese": "Chiisai otoko-noko wa watashi to issho desu"
+        },
+        {
+            "English": "The boy is here",
+            "Japanese": "Otoko-noko wa koko ni imasu"
+        },
+        {
+            "English": "He is not here",
+            "Japanese": "Koko ni imasen"
+        },
+        {
+            "English": "The big boy is not here",
+            "Japanese": "Oukii otoko-noko wa koko ni imasen"
+        },
+        {
+            "English": "The boy is litle",
+            "Japanese": "Otoko-noko wa chiisai desu"
+        },
+        {
+            "English": "The boy is small",
+            "Japanese": "Otoko-noko wa chiisai desu"
+        },
+        {
+            "English": "Our child is really little",
+            "Japanese": "Watashitachi no kodomo wa hontou ni chiisai desu"
+        },
+        {
+            "English": "Trully\/Really",
+            "Japanese": "Hontou ni"
+        },
+        {
+            "English": "It's trully expensive",
+            "Japanese": "Hontou ni takai desu"
+        },
+        {
+            "English": "It's true",
+            "Japanese": "Hontou desu"
+        },
+        {
+            "English": "Is it true?",
+            "Japanese": "Hontou desu ka?"
+        },
+        {
+            "English": "I have four children",
+            "Japanese": "Yo-nin kodomo ga imasu"
+        },
+        {
+            "English": "Yes it's true",
+            "Japanese": "Ae, hontou desu"
+        },
+        {
+            "English": "Our little boy",
+            "Japanese": "Watashitachi no chiisai otoko-noko"
+        },
+        {
+            "English": "He is here",
+            "Japanese": "Koko ni imasu"
+        },
+        {
+            "English": "The big boy is in New York",
+            "Japanese": "Oukii otko-noko wa New York ni imasu"
+        },
+        {
+            "English": "My child also",
+            "Japanese": "Watashi no kodomo mo"
+        },
+        {
+            "English": "Is there",
+            "Japanese": "Soko ni imasu"
+        },
+        {
+            "English": "The child is really little",
+            "Japanese": "Kodomo wa hontou ni chiisai desu"
+        },
+        {
+            "English": "Where is the bathroom?",
+            "Japanese": "Otearai wa doko desu ka?"
+        },
+        {
+            "English": "Bathroom",
+            "Japanese": "Otearai"
+        },
+        {
+            "English": "Toilet",
+            "Japanese": "Toire\/Toile"
+        },
+        {
+            "English": "The toilet is there",
+            "Japanese": "Toire wa soko desu"
+        },
+        {
+            "English": "Family",
+            "Japanese": "Kazoku"
+        },
+        {
+            "English": "The family lives in america",
+            "Japanese": "Kazoku wa America ni sunde imasu"
+        },
+        {
+            "English": "My big boy also",
+            "Japanese": "Watashi no oukii otoko-noko mo"
+        },
+        {
+            "English": "He lives there",
+            "Japanese": "Soko ni sunde imasu"
+        },
+        {
+            "English": "Is that true?",
+            "Japanese": "Hontou desu ka?"
+        },
+        {
+            "English": "I have two small girls",
+            "Japanese": "Futari chiisai onna-noko ga imasu"
+        },
+        {
+            "English": "I have one little girl",
+            "Japanese": "Hitori chiisai onna-noko ga imasu"
+        },
+        {
+            "English": "The girl is really little",
+            "Japanese": "Onna-noko wa hontou ni chiisai desu"
+        },
+        {
+            "English": "The boy and the girl",
+            "Japanese": "Otoko-noko to onna-noko"
+        },
+        {
+            "English": "The children are with my wife",
+            "Japanese": "Kodomo wa kanai to issho desu"
+        },
+        {
+            "English": "Where is the bathroom?",
+            "Japanese": "Otearai wa doko desu ka?"
+        },
+        {
+            "English": "The bathroom is over there",
+            "Japanese": "Otearai wa asoko desu"
+        },
+        {
+            "English": "The toilet is there",
+            "Japanese": "Toire wa soko desu"
+        },
+        {
+            "English": "Who is that?",
+            "Japanese": "Dare desu ka?"
+        },
+        {
+            "English": "How do you do? Pleased to meet you.",
+            "Japanese": "Hajimashite. Douzou yoroshiku"
+        },
+        {
+            "English": "Please come in",
+            "Japanese": "Dozou ohairi kudasai"
+        },
+        {
+            "English": "Won't you drink something?",
+            "Japanese": "Nanika nomimasen ka?"
+        },
+        {
+            "English": "Yes, I would like to drink coffee",
+            "Japanese": "Ae kohee ga nomitain desu ga"
+        },
+        {
+            "English": "The family lives in New York",
+            "Japanese": "Kazoku wa New York ni sunde imasu"
+        },
+        {
+            "English": "Three people",
+            "Japanese": "San-nin"
+        },
+        {
+            "English": "Two people",
+            "Japanese": "Futari"
+        },
+        {
+            "English": "One person",
+            "Japanese": "Hitori"
+        },
+        {
+            "English": "I have one little child",
+            "Japanese": "Hitori chiisai kodomo ga imasu"
+        },
+        {
+            "English": "The child is really little",
+            "Japanese": "Kodomo wa hontou ni chiisai desu"
+        },
+        {
+            "English": "Our child",
+            "Japanese": "Watashitachi no kodomo"
+        },
+        {
+            "English": "Our child is not big",
+            "Japanese": "Watashitachi no kodomo wa oukiku arimasen"
+        },
+        {
+            "English": "I have one child",
+            "Japanese": "Hitori kodomo ga imasu"
+        },
+        {
+            "English": "As for children, I don't have any",
+            "Japanese": "Kodomo wa imasen"
+        },
+        {
+            "English": "As for boy, I don't have any",
+            "Japanese": "Otoko-noko wa imasen"
+        },
+        {
+            "English": "I have a big girl",
+            "Japanese": "Oukii onna-noko ga masu"
+        },
+        {
+            "English": "The child is not here",
+            "Japanese": "Kodomo wa koko ni imasen"
+        },
+        {
+            "English": "She is in New York",
+            "Japanese": "New York ni imasu"
+        }
+    ],
+    "startedOn": "25.05.2016 | 00.19.41 pm"
+}

@@ -1,0 +1,499 @@
+{
+    "name": "Lesson 22",
+    "trackName": "Pimsleur - Japanese 1 - Lesson 22.mp3",
+    "phrases": [
+        {
+            "English": "Please listen to the next conversation",
+            "Japanese": "Tsugi no kaiwa wo kiite kudasai"
+        },
+        {
+            "English": "How many children do you have?",
+            "Japanese": "Nan-nin kodomo san ga imasu ka?"
+        },
+        {
+            "English": "Two, I have two children. I have a boy and a girl",
+            "Japanese": "Futari, futari kodomo ga imasu. Otoko-noko to onna-noko ga imasu"
+        },
+        {
+            "English": "Are the children big?",
+            "Japanese": "Kodomo san ga oukii desu ka?"
+        },
+        {
+            "English": "The boy is big but the girl is still little",
+            "Japanese": "Otoko-noko wa oukii desu, demo onna-noko wa mada chiisai desu"
+        },
+        {
+            "English": "Where do they live?",
+            "Japanese": "Doko ni sunde imasu ka?"
+        },
+        {
+            "English": "The big boy lives in Washington",
+            "Japanese": "Oukii otoko-noko wa washington ni sunde imasu"
+        },
+        {
+            "English": "Ah, is that so. My children also live in Washington",
+            "Japanese": "Ah, so desu ka, watashi no kodomo mo washington ni sunde imasu"
+        },
+        {
+            "English": "Is it true?",
+            "Japanese": "Hontou desu ka?"
+        },
+        {
+            "English": "Listen again",
+            "Japanese": "Mou ichido kiite kudasai"
+        },
+        {
+            "English": "How do you do? Pleased to meet you",
+            "Japanese": "Hajimemashite. Douzo yoroshiku"
+        },
+        {
+            "English": "Good afternoon. It's a nice day, isn't it?",
+            "Japanese": "Konnichiwa ee otenki desu ne?"
+        },
+        {
+            "English": "Yes it is.",
+            "Japanese": "So desu ne"
+        },
+        {
+            "English": "Do you have any children?",
+            "Japanese": "Kodomo san ga imasu ka?"
+        },
+        {
+            "English": "No I don't have any",
+            "Japanese": "Īe imasen"
+        },
+        {
+            "English": "Yes I have(children)",
+            "Japanese": "Ae imasu"
+        },
+        {
+            "English": "Say please",
+            "Japanese": "To itte kudasai"
+        },
+        {
+            "English": "1 person",
+            "Japanese": "Hitori"
+        },
+        {
+            "English": "2 persons",
+            "Japanese": "Futari"
+        },
+        {
+            "English": "The boy is small",
+            "Japanese": "Otoko-noko wa chiisai desu"
+        },
+        {
+            "English": "He is truly little",
+            "Japanese": "Hontou ni chiisai desu"
+        },
+        {
+            "English": "But the girl is big",
+            "Japanese": "Demo onna-noko wa oukii desu"
+        },
+        {
+            "English": "The boy is not big",
+            "Japanese": "Otoko-noko wa oukiku arimasen"
+        },
+        {
+            "English": "A big girl",
+            "Japanese": "Oukii onna-noko"
+        },
+        {
+            "English": "Our big boy",
+            "Japanese": "Watashitachi no oukii otoko-noko"
+        },
+        {
+            "English": "Our little girl",
+            "Japanese": "Watashitachi no chiisai onna-noko"
+        },
+        {
+            "English": "How many children do you have?",
+            "Japanese": "Nan-nin kodomo san ga imasu ka?"
+        },
+        {
+            "English": "I have three children",
+            "Japanese": "San-nin kodomo ga imasu"
+        },
+        {
+            "English": "Two persons",
+            "Japanese": "Futari"
+        },
+        {
+            "English": "As for children I don't have any",
+            "Japanese": "Kodomo wa imasen"
+        },
+        {
+            "English": "Where is the bathroom?",
+            "Japanese": "Otearai wo doko desu ka?"
+        },
+        {
+            "English": "The toilet is over there",
+            "Japanese": "Toire wa asoko desu"
+        },
+        {
+            "English": "Ah, is that so? Thank you very much",
+            "Japanese": "Ah, o desu ka, Domo arigattou gozaimasu"
+        },
+        {
+            "English": "THe big girl is in New York",
+            "Japanese": "Oukii onna-noko wa New York ni imasu"
+        },
+        {
+            "English": "Is it true?",
+            "Japanese": "Hontou desu ka?"
+        },
+        {
+            "English": "Our child too is in New York",
+            "Japanese": "Watashitachi no kodomo mo New York ni imasu"
+        },
+        {
+            "English": "The family lives in New York",
+            "Japanese": "Kazoku wa New York ni sunde imasu"
+        },
+        {
+            "English": "Is it true?",
+            "Japanese": "Hontou desu ka?"
+        },
+        {
+            "English": "My husband",
+            "Japanese": "Shujin"
+        },
+        {
+            "English": "Your husband",
+            "Japanese": "Go-shujin"
+        },
+        {
+            "English": "Your family",
+            "Japanese": "Go-kazoku"
+        },
+        {
+            "English": "Where is your family living?",
+            "Japanese": "Go-kazoku wa doko ni sunde imasu ka?"
+        },
+        {
+            "English": "They are living in New York",
+            "Japanese": "New York ni sunde imasu"
+        },
+        {
+            "English": "Three people",
+            "Japanese": "San-nin"
+        },
+        {
+            "English": "Four people",
+            "Japanese": "Yo-nin"
+        },
+        {
+            "English": "Two people",
+            "Japanese": "Futari"
+        },
+        {
+            "English": "One person",
+            "Japanese": "Hitori"
+        },
+        {
+            "English": "I have one child",
+            "Japanese": "Hitori kodomo ga imasu"
+        },
+        {
+            "English": "The child is with my husband",
+            "Japanese": "Kodomo wa shujin to issho desu"
+        },
+        {
+            "English": "The child is with my wife",
+            "Japanese": "Kodomo wa kanai to issho desu"
+        },
+        {
+            "English": "Our child",
+            "Japanese": "Watashitachi no kodomo"
+        },
+        {
+            "English": "My car",
+            "Japanese": "Watashi no kuruma"
+        },
+        {
+            "English": "Car",
+            "Japanese": "Kuruma"
+        },
+        {
+            "English": "I have some money",
+            "Japanese": "Okane o motte imasu"
+        },
+        {
+            "English": "I have a car",
+            "Japanese": "Kuruma o motte imasu"
+        },
+        {
+            "English": "Do you have a car?",
+            "Japanese": "Kuruma o motte imasu ka?"
+        },
+        {
+            "English": "The car is here",
+            "Japanese": "Kuruma wa koko ni arimasu"
+        },
+        {
+            "English": "Is the car here?",
+            "Japanese": "Kuruma wa koko ni arimasu ka?"
+        },
+        {
+            "English": "The family is in Japan",
+            "Japanese": "Kazoku wa Nihon ni imasu"
+        },
+        {
+            "English": "Is your family in Japan?",
+            "Japanese": "Go-kazoku wa Nihon ni imasu ka?"
+        },
+        {
+            "English": "Where is your family living?",
+            "Japanese": "Go-kazoku wa doko ni sunde imasu ka?"
+        },
+        {
+            "English": "The car is here",
+            "Japanese": "Kuruma wa koko ni arimasu"
+        },
+        {
+            "English": "A Japanese car",
+            "Japanese": "Nihon no kuruma"
+        },
+        {
+            "English": "An American car",
+            "Japanese": "America no kuruma"
+        },
+        {
+            "English": "I have a Japanese car",
+            "Japanese": "Nihon no kuruma o motte imasu"
+        },
+        {
+            "English": "It's small",
+            "Japanese": "Chiisai desu"
+        },
+        {
+            "English": "I have a small car",
+            "Japanese": "Chiisai kuruma o motte imasu"
+        },
+        {
+            "English": "It's really small",
+            "Japanese": "Hontou ni chiisai desu"
+        },
+        {
+            "English": "I have an American car",
+            "Japanese": "America no kuruma o motte imasu"
+        },
+        {
+            "English": "Is it big?",
+            "Japanese": "Oukii desu ka?"
+        },
+        {
+            "English": "No it's not big",
+            "Japanese": "Īe oukiku arimasen"
+        },
+        {
+            "English": "It's big. It's not big.",
+            "Japanese": "Oukii desu. Oukiku arimasen"
+        },
+        {
+            "English": "It's not small",
+            "Japanese": "Chiisaku arimasen"
+        },
+        {
+            "English": "It's not big",
+            "Japanese": "Oukiku arimasen"
+        },
+        {
+            "English": "Trully it's big",
+            "Japanese": "Hontou ni oukii desu"
+        },
+        {
+            "English": "Where is your family living?",
+            "Japanese": "Go-kazoku wa doko ni sunde imasu ka?"
+        },
+        {
+            "English": "Four people",
+            "Japanese": "Yo-nin"
+        },
+        {
+            "English": "Two people",
+            "Japanese": "Futari"
+        },
+        {
+            "English": "One person",
+            "Japanese": "Hitori"
+        },
+        {
+            "English": "Where is the bathroom?",
+            "Japanese": "Otearai wa doko desu ka?"
+        },
+        {
+            "English": "Is it small?",
+            "Japanese": "Chiisai desu ka?"
+        },
+        {
+            "English": "I have four boys",
+            "Japanese": "Yo-nin otoko-noko ga imasu"
+        },
+        {
+            "English": "Is it true?",
+            "Japanese": "Hontou desu ka?"
+        },
+        {
+            "English": "Do you understand Japanese?",
+            "Japanese": "Nihongo ga wakarimasu ka?"
+        },
+        {
+            "English": "Answer please",
+            "Japanese": "To kotaete kudasai"
+        },
+        {
+            "English": "Yes little",
+            "Japanese": "Ae sukoshi"
+        },
+        {
+            "English": "Do you have a car?",
+            "Japanese": "Kuruma o motte imasu ka?"
+        },
+        {
+            "English": "Gasoline",
+            "Japanese": "gasorin"
+        },
+        {
+            "English": "Give me some gasoline please",
+            "Japanese": "gasorin onegai shimasu"
+        },
+        {
+            "English": "Ten litres",
+            "Japanese": "Ju litta"
+        },
+        {
+            "English": "Ten litres, could you please",
+            "Japanese": "Ju ritta onegai shimasu"
+        },
+        {
+            "English": "20 litres",
+            "Japanese": "Ni-ju litta"
+        },
+        {
+            "English": "Do you have a Japanese car?",
+            "Japanese": "Nihon no kuruma o motte imasu ka?"
+        },
+        {
+            "English": "Yes I have",
+            "Japanese": "Ae motte imasu"
+        },
+        {
+            "English": "As for the car, is it small?",
+            "Japanese": "Kuruma wa chiisai desu"
+        },
+        {
+            "English": "No, it;s not small",
+            "Japanese": "Īe, chiisaku arimasen"
+        },
+        {
+            "English": "There is a car",
+            "Japanese": "Kuruma ga arimasu"
+        },
+        {
+            "English": "There are many cars",
+            "Japanese": "Takusan kuruma ga arimasu"
+        },
+        {
+            "English": "There are many American cars",
+            "Japanese": "Takusan America na kuruma ga imasu"
+        },
+        {
+            "English": "In\/At",
+            "Japanese": "Ni"
+        },
+        {
+            "English": "In Japan",
+            "Japanese": "Nihon ni"
+        },
+        {
+            "English": "An American car",
+            "Japanese": "Amerika no kuruma"
+        },
+        {
+            "English": "In Japan there are many American cars.",
+            "Japanese": "Nihon ni takusan America no kuruma ga ariimasu"
+        },
+        {
+            "English": "Say it again please",
+            "Japanese": "Mou ichido itte kudasai"
+        },
+        {
+            "English": "There's a car",
+            "Japanese": "Kuruma ga arimasu"
+        },
+        {
+            "English": "There is gasoline",
+            "Japanese": "gasorin ga arimasu"
+        },
+        {
+            "English": "Is there gasoline?",
+            "Japanese": "gasorin ga arimasu ka?"
+        },
+        {
+            "English": "Yes there is",
+            "Japanese": "Ae arimasu"
+        },
+        {
+            "English": "There is a lot",
+            "Japanese": "Takusan arimasu"
+        },
+        {
+            "English": "What is it?",
+            "Japanese": "Nan desu ka?"
+        },
+        {
+            "English": "What time is it?",
+            "Japanese": "Nanji desu ka?"
+        },
+        {
+            "English": "How many people?",
+            "Japanese": "Nan-nin?"
+        },
+        {
+            "English": "How many litres?",
+            "Japanese": "Nan litta?"
+        },
+        {
+            "English": "I don't know",
+            "Japanese": "Wakarimasen"
+        },
+        {
+            "English": "Kilometre",
+            "Japanese": "Kilo"
+        },
+        {
+            "English": "How many kilometres?",
+            "Japanese": "Nan kiro?"
+        },
+        {
+            "English": "How many kilometres are there?",
+            "Japanese": "Nan kiro arimasu ka?"
+        },
+        {
+            "English": "50 kilometres",
+            "Japanese": "Go-ju kiro"
+        },
+        {
+            "English": "25 litres could you please?",
+            "Japanese": "Ni-ju go kitta onegai shimasu"
+        },
+        {
+            "English": "There are 60 kilometres",
+            "Japanese": "Roku-ju kiro arimasu"
+        },
+        {
+            "English": "There are 50 kilometres",
+            "Japanese": "Go-ju kiro arimasu"
+        },
+        {
+            "English": "Ah is that so?",
+            "Japanese": "Ah, so desu ka?"
+        },
+        {
+            "English": "Thank you",
+            "Japanese": "Arigattou gozaimasu"
+        }
+    ],
+    "startedOn": "25.05.2016 | 08.37.48 pm"
+}

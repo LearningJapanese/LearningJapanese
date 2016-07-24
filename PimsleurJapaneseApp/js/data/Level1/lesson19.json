@@ -1,0 +1,366 @@
+{
+    "name": "Lesson 19",
+    "trackName": "Pimsleur - Japanese 1 - Lesson 19.mp3",
+    "phrases": [
+        {
+            "English": "Welcome",
+            "Japanese": "Irasshaimase"
+        },
+        {
+            "English": "Too fast",
+            "Japanese": "Hayasugimasu"
+        },
+        {
+            "English": "More",
+            "Japanese": "Motto"
+        },
+        {
+            "English": "Fifty yen",
+            "Japanese": "Go-juu yen"
+        },
+        {
+            "English": "Sixty yen",
+            "Japanese": "Roku-juu yen"
+        },
+        {
+            "English": "I'm going to give you..",
+            "Japanese": "Agemasu"
+        },
+        {
+            "English": "Who is he\/she?",
+            "Japanese": "Dare desu ka?"
+        },
+        {
+            "English": "Where?",
+            "Japanese": "Doko"
+        },
+        {
+            "English": "Who?",
+            "Japanese": "Dare?"
+        },
+        {
+            "English": "Come in",
+            "Japanese": "Ohairi kudasai"
+        },
+        {
+            "English": "Please come in",
+            "Japanese": "Douzo ohairi kudasai"
+        },
+        {
+            "English": "How do you do?",
+            "Japanese": "Hajimemashite"
+        },
+        {
+            "English": "Pleased to meet you",
+            "Japanese": "Douzo yoroshiku"
+        },
+        {
+            "English": "Lives \/ is living",
+            "Japanese": "sunde imasu"
+        },
+        {
+            "English": "there",
+            "Japanese": "soko"
+        },
+        {
+            "English": "Over there",
+            "Japanese": "Asoko"
+        },
+        {
+            "English": "With",
+            "Japanese": "To"
+        },
+        {
+            "English": "We",
+            "Japanese": "Watashi-tachi"
+        },
+        {
+            "English": "Here",
+            "Japanese": "Koko"
+        },
+        {
+            "English": "Wine",
+            "Japanese": "Wain"
+        },
+        {
+            "English": "(I\/We) would like to drink",
+            "Japanese": "nomitain desu ga"
+        },
+        {
+            "English": "(He\/She\/They) would like to drink",
+            "Japanese": "nomitagatteirun desu ga"
+        },
+        {
+            "English": "For me, it's too fast",
+            "Japanese": "Watashi ni wa hayasugimasu"
+        },
+        {
+            "English": "More slowly, could you please?",
+            "Japanese": "Motto yukkuri onegaishimasu"
+        },
+        {
+            "English": "Then I'm going to speak slowly",
+            "Japanese": "Jaa yukkuri hanashimasu"
+        },
+        {
+            "English": "Thanks a lot",
+            "Japanese": "Domo arigatou"
+        },
+        {
+            "English": "It's too expensive",
+            "Japanese": "Takasugimasu"
+        },
+        {
+            "English": "For me, it's expensive",
+            "Japanese": "Watashi ni wa takai desu"
+        },
+        {
+            "English": "As for beer, is it expensive?",
+            "Japanese": "Biiru wa takai desu ka?"
+        },
+        {
+            "English": "No, it's not expensive",
+            "Japanese": "Iie, takaku arimasen"
+        },
+        {
+            "English": "It's more expensive",
+            "Japanese": "Motto takai desu"
+        },
+        {
+            "English": "Here it's more expensive",
+            "Japanese": "Koko de wa motto takai desu"
+        },
+        {
+            "English": "As for in Japan, it's not expensive",
+            "Japanese": "Nihon de wa takaku arimasen"
+        },
+        {
+            "English": "I'm leaving",
+            "Japanese": "Ittekimasu"
+        },
+        {
+            "English": "Where to?",
+            "Japanese": "Doko he?"
+        },
+        {
+            "English": "To Shinjuku",
+            "Japanese": "Shinjuku he"
+        },
+        {
+            "English": "I would like to shop",
+            "Japanese": "Kaimono ga shitain desu ga"
+        },
+        {
+            "English": "It's not expensive",
+            "Japanese": "Takaku arimasen"
+        },
+        {
+            "English": "Is it expensive?",
+            "Japanese": "Takai desu ka?"
+        },
+        {
+            "English": "Is it too expensive?",
+            "Japanese": "Takasugimasu ka?"
+        },
+        {
+            "English": "I'm going to give you one thousand yen",
+            "Japanese": "Sen yen agemasu"
+        },
+        {
+            "English": "Where's your wife?",
+            "Japanese": "Okusan wa doko desu ka?"
+        },
+        {
+            "English": "Where's your husband?",
+            "Japanese": "Go-shujin wa doko desu ka?"
+        },
+        {
+            "English": "With whom?",
+            "Japanese": "Dare to?"
+        },
+        {
+            "English": "Who is she\/he?",
+            "Japanese": "Dare desu ka?"
+        },
+        {
+            "English": "Is he your husband?",
+            "Japanese": "Go-shujin desu ka?"
+        },
+        {
+            "English": "My husband would like to drink water",
+            "Japanese": "Shujin wa mizu wo nomitagatteirun desu ga"
+        },
+        {
+            "English": "My wife would like to drink coffee",
+            "Japanese": "Kanai wa kohii wo nomitagatteirun desu ga"
+        },
+        {
+            "English": "What is your wife going to drink?",
+            "Japanese": "Okusan wa nani wo nomimasu ka?"
+        },
+        {
+            "English": "I'm going to drink coffee",
+            "Japanese": "Kouhii wo nomimasu"
+        },
+        {
+            "English": "Come in",
+            "Japanese": "Ohairi kudasai"
+        },
+        {
+            "English": "Here you are",
+            "Japanese": "Hai douzo"
+        },
+        {
+            "English": "Please come in. \/ Come in please",
+            "Japanese": "Douzo ohairi kudasai. \/ Douzo"
+        },
+        {
+            "English": "How do you do?",
+            "Japanese": "Hajimemashite"
+        },
+        {
+            "English": "I'm Mr. Suzuki",
+            "Japanese": "Watashi wa Suzuki desu"
+        },
+        {
+            "English": "Pleased to meet you",
+            "Japanese": "Douzo yoroshiku"
+        },
+        {
+            "English": "How do you do? Pleased to meet you",
+            "Japanese": "Hajimemashite. Douzo yoroshiku"
+        },
+        {
+            "English": "Where do you live?",
+            "Japanese": "Doko ni sunde imasu ka?"
+        },
+        {
+            "English": "I'm living in Shinjuku",
+            "Japanese": "Shinjuku ni sunde imasu"
+        },
+        {
+            "English": "I also live there",
+            "Japanese": "Watashi mo soko ni sunde imasu"
+        },
+        {
+            "English": "I live in Ueno",
+            "Japanese": "Ueno ni sunde imasu"
+        },
+        {
+            "English": "Is Mr. Itou also living there?",
+            "Japanese": "Itou-san mo soko ni sunde imasu ka?"
+        },
+        {
+            "English": "Yes, with his wife",
+            "Japanese": "Ee, okusan to"
+        },
+        {
+            "English": "Mr. Sato also lives there",
+            "Japanese": "Sato-san mo soko ni sunde imasu"
+        },
+        {
+            "English": "Who is she?",
+            "Japanese": "Dare desu ka?"
+        },
+        {
+            "English": "She's my wife",
+            "Japanese": "Kanai desu"
+        },
+        {
+            "English": "We live here",
+            "Japanese": "Watashitachi wa koko ni sunde imasu"
+        },
+        {
+            "English": "I want to drink something",
+            "Japanese": "Nanika nomitai desu"
+        },
+        {
+            "English": "I would like to drink something",
+            "Japanese": "Nanika nomitain desu ga"
+        },
+        {
+            "English": "What are you going to drink?",
+            "Japanese": "Nani wo nomimasu ka?"
+        },
+        {
+            "English": "I would like to drink beer",
+            "Japanese": "Biiru ga nomitain desu ga"
+        },
+        {
+            "English": "I'm going to drink beer",
+            "Japanese": "Biiru wo nomimasu"
+        },
+        {
+            "English": "We would like to drink something",
+            "Japanese": "Watashitachi wa nanika nomitain desu ga"
+        },
+        {
+            "English": "My wife and I",
+            "Japanese": "Kanai to watashi"
+        },
+        {
+            "English": "We would like to drink water",
+            "Japanese": "Watashitachi wa mizu ga nomitain desu ga"
+        },
+        {
+            "English": "What is your husband going to drink?",
+            "Japanese": "Go-shujin wa nani wo nomimasu ka?"
+        },
+        {
+            "English": "My husband would like to drink water",
+            "Japanese": "Shujin wa mizu wo nomitagatteirun desu ga"
+        },
+        {
+            "English": "What is your wife going to drink?",
+            "Japanese": "Okusan wa nani wo nomimasu ka?"
+        },
+        {
+            "English": "My wife would like to drink wine",
+            "Japanese": "Kanai wa wain wo nomitagatteirun desu ga"
+        },
+        {
+            "English": "I would like to drink wine",
+            "Japanese": "Wain ga nomitain desu ga"
+        },
+        {
+            "English": "Me too. I also would like to drink wine",
+            "Japanese": "Watashi mo. Watashi mo wain wo nomitain desu ga"
+        },
+        {
+            "English": "We would like to have water too",
+            "Japanese": "Watashitachi wa mizu mo hoshiin desu ga"
+        },
+        {
+            "English": "Where in America do you live?",
+            "Japanese": "America no doko ni sunde imasu ka?"
+        },
+        {
+            "English": "I live in Washington",
+            "Japanese": "Washington ni sunde imasu"
+        },
+        {
+            "English": "With your wife?",
+            "Japanese": "Okusan to?"
+        },
+        {
+            "English": "Yes, with my wife",
+            "Japanese": "Ee, kanai to"
+        },
+        {
+            "English": "Mr. Tanaka also lives there",
+            "Japanese": "Tanaka-san mo soko ni sunde imasu"
+        },
+        {
+            "English": "It's my husband",
+            "Japanese": "Shujin desu"
+        },
+        {
+            "English": "Tom, this is Mr. Suzuki",
+            "Japanese": "Tom, Suzuki-san desu"
+        },
+        {
+            "English": "Mr. Suzuki, this is my husband",
+            "Japanese": "Suzuki-san, shujin desu"
+        }
+    ]
+}

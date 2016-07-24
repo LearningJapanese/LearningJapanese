@@ -1,0 +1,331 @@
+{
+    "name": "Lesson 18",
+    "trackName": "Pimsleur - Japanese 1 - Lesson 18.mp3",
+    "phrases": [
+        {
+            "English": "Book",
+            "Japanese": "Hon"
+        },
+        {
+            "English": "A Japanese book",
+            "Japanese": "Nihon no hon"
+        },
+        {
+            "English": "Expensive",
+            "Japanese": "Takai"
+        },
+        {
+            "English": "Not expensive",
+            "Japanese": "Takaku arimasen"
+        },
+        {
+            "English": "More",
+            "Japanese": "Motto"
+        },
+        {
+            "English": "My husband",
+            "Japanese": "Shujin"
+        },
+        {
+            "English": "Your husband",
+            "Japanese": "Go-shujin"
+        },
+        {
+            "English": "Water",
+            "Japanese": "Mizu"
+        },
+        {
+            "English": "Wants to drink",
+            "Japanese": "Nomitagatteiru"
+        },
+        {
+            "English": "Would like to drink",
+            "Japanese": "Nomitagatteiru-n desu ga"
+        },
+        {
+            "English": "Coffee",
+            "Japanese": "Kohii"
+        },
+        {
+            "English": "My wife",
+            "Japanese": "Kanai"
+        },
+        {
+            "English": "Your wife",
+            "Japanese": "Okusan (oak-saan)"
+        },
+        {
+            "English": "With my husband",
+            "Japanese": "Shujin to"
+        },
+        {
+            "English": "It's not enough",
+            "Japanese": "Juubun ja arimasen"
+        },
+        {
+            "English": "Where to?",
+            "Japanese": "Doko e?"
+        },
+        {
+            "English": "To Shinjuku",
+            "Japanese": "Shinjuku e"
+        },
+        {
+            "English": "I would like to shop",
+            "Japanese": "Kaimono ga shitain desu ga"
+        },
+        {
+            "English": "What is that?",
+            "Japanese": "Nan desu ka?"
+        },
+        {
+            "English": "That's sushi",
+            "Japanese": "Sushi desu"
+        },
+        {
+            "English": "You're talking too fast",
+            "Japanese": "Hayasugimasu"
+        },
+        {
+            "English": "Is it too fast?",
+            "Japanese": "Hayasugimasu ka?"
+        },
+        {
+            "English": "For me, it's too fast",
+            "Japanese": "Watashi ni wa hayasugimasu"
+        },
+        {
+            "English": "Slowly, could you please?",
+            "Japanese": "Yukkuri onegaishimasu"
+        },
+        {
+            "English": "Then I'm going to speak slowly",
+            "Japanese": "Jaa yukkuri hanashimasu"
+        },
+        {
+            "English": "Thanks a lot",
+            "Japanese": "Domo arigatou"
+        },
+        {
+            "English": "You're welcome",
+            "Japanese": "Dou itashimashite"
+        },
+        {
+            "English": "Do you have money?",
+            "Japanese": "O-kane wo motte imasu ka?"
+        },
+        {
+            "English": "I have enough",
+            "Japanese": "Juubun motte imasu"
+        },
+        {
+            "English": "Do you have enough money?",
+            "Japanese": "Juubun o-kane wo motte imasu ka?"
+        },
+        {
+            "English": "I have sixty dollars",
+            "Japanese": "Roku-juu doru motte imasu"
+        },
+        {
+            "English": "It's too much",
+            "Japanese": "Ousugimasu"
+        },
+        {
+            "English": "It's not enough",
+            "Japanese": "Juubun ja arimasen"
+        },
+        {
+            "English": "It's too expensive",
+            "Japanese": "Takasugimasu"
+        },
+        {
+            "English": "For me, it's too expensive",
+            "Japanese": "Watashi ni wa takasugimasu"
+        },
+        {
+            "English": "It's expensive",
+            "Japanese": "Takai desu"
+        },
+        {
+            "English": "Is it expensive?",
+            "Japanese": "Takai desu ka?"
+        },
+        {
+            "English": "It's not expensive",
+            "Japanese": "Takaku arimasen"
+        },
+        {
+            "English": "Is the beer expensive?",
+            "Japanese": "Biiru wa takai desu ka?"
+        },
+        {
+            "English": "In dollars, it's not expensive",
+            "Japanese": "Doru de wa takaku arimasen"
+        },
+        {
+            "English": "Here it's expensive",
+            "Japanese": "Koke de wa takai desu"
+        },
+        {
+            "English": "I'm leaving",
+            "Japanese": "Ittekimasu"
+        },
+        {
+            "English": "To Koen Park",
+            "Japanese": "Ueno Koen e"
+        },
+        {
+            "English": "I would like to have twenty dollars",
+            "Japanese": "Ni-juu doru hoshiin desu ga"
+        },
+        {
+            "English": "I would like to have more",
+            "Japanese": "Motto hoshiin desu ga"
+        },
+        {
+            "English": "It's more expensive",
+            "Japanese": "Motto takai desu"
+        },
+        {
+            "English": "Here it's more expensive",
+            "Japanese": "Koko de wa motto takai desu"
+        },
+        {
+            "English": "More slowly please",
+            "Japanese": "Motto yukkuri onegaishimasu"
+        },
+        {
+            "English": "Where is Shinjuku Station",
+            "Japanese": "Shinjuku Eki wa doko desu ka?"
+        },
+        {
+            "English": "Where is my husband?",
+            "Japanese": "Shujin wa doko desu ka?"
+        },
+        {
+            "English": "Where is your husband?",
+            "Japanese": "Go-shujin wa doko desu ka?"
+        },
+        {
+            "English": "Is your husband here?",
+            "Japanese": "Go-shujin wa koko desu ka?"
+        },
+        {
+            "English": "It's water",
+            "Japanese": "Mizu desu"
+        },
+        {
+            "English": "He\/She would like to drink water",
+            "Japanese": "Mizu wo nomitagetteirun desu ga"
+        },
+        {
+            "English": "My husband would like to drink water",
+            "Japanese": "Shujin wa mizu wo nomitagatteirun desu ga"
+        },
+        {
+            "English": "For me, it's too fast",
+            "Japanese": "Watashi ni wa hayasugimasu"
+        },
+        {
+            "English": "My husband would like to drink coffee",
+            "Japanese": "Shujin wa kohii wo nomitagatteirun desu ga"
+        },
+        {
+            "English": "My wife would like to drink coffee",
+            "Japanese": "Kanai wa kohii wo nomitagatteirun desu ga"
+        },
+        {
+            "English": "Is water expensive?",
+            "Japanese": "Mizu wa takai desu ka?"
+        },
+        {
+            "English": "It's not expensive",
+            "Japanese": "Takaku arimasen"
+        },
+        {
+            "English": "Is coffee expensive?",
+            "Japanese": "Kohii wa takai desu ka?"
+        },
+        {
+            "English": "Here it's expensive",
+            "Japanese": "Koko de wa takai desu"
+        },
+        {
+            "English": "Where is your wife?",
+            "Japanese": "Okusan wa doku desu ka?"
+        },
+        {
+            "English": "Your wife is here",
+            "Japanese": "Okusan wa koko desu"
+        },
+        {
+            "English": "Your wife isn't here",
+            "Japanese": "Okusan wa koko ja arimasen"
+        },
+        {
+            "English": "Here it's not expensive",
+            "Japanese": "Koko de wa takaku arimasen"
+        },
+        {
+            "English": "What is your wife going to drink?",
+            "Japanese": "Okusan wa nani wo nomimasu ka?"
+        },
+        {
+            "English": "My wife would like to drink some sake",
+            "Japanese": "Kani wa o-sake wo nomitagatteirun desu ga"
+        },
+        {
+            "English": "What would you like to drink?",
+            "Japanese": "Nani wo nomimasu desu ka?"
+        },
+        {
+            "English": "Coffee or water, could you please?",
+            "Japanese": "Kohii ka mizu onegaishimasu"
+        },
+        {
+            "English": "My wife? I don't know",
+            "Japanese": "Kanai? Wakarimasen"
+        },
+        {
+            "English": "Wouldn't you like to have dinner with me?",
+            "Japanese": "Watashi to ban-gohan wo tabemasen ka?"
+        },
+        {
+            "English": "Sorry, today is a little bit.",
+            "Japanese": "Sumimasen, kyou wa chotto"
+        },
+        {
+            "English": "I'm going to have dinner with my husband",
+            "Japanese": "Shujin to ban-gohan wo tabemasu"
+        },
+        {
+            "English": "I'm going to have dinner with my husband this evening",
+            "Japanese": "Konban shujin to ban-gohan wo tabemasu"
+        },
+        {
+            "English": "Then won't you drink something?",
+            "Japanese": "Jaa nanika nomimasen ka?"
+        },
+        {
+            "English": "Thanks a lot",
+            "Japanese": "Domo arigatou"
+        },
+        {
+            "English": "What would you like to drink?",
+            "Japanese": "Nani wo nomimasu ka?"
+        },
+        {
+            "English": "Give me water please",
+            "Japanese": "Mizu wo kudasai"
+        },
+        {
+            "English": "Give me coffee please",
+            "Japanese": "Kohii wo kudasai"
+        },
+        {
+            "English": "Coffee, please",
+            "Japanese": "Kohii onegaishimasu"
+        }
+    ],
+    "startedOn": "13.05.2016 | 01.37.23 pm"
+}

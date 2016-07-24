@@ -5,13 +5,13 @@
         <thead>
             <tr>
                 <th class="col-md-1">No.</th>
-                <th>Unit Name</th>
+                <th>Lesson Name</th>
             </tr>
         </thead>
         <tbody>
             <tr ng-repeat="unit in levelData.lessons | filter: searchFilter">
                 <td>{{$index + 1}}</td>
-                <td><a href="./#/level/{{lid}}/unit/{{$index+1}}">Unit {{$index+1}}</a></td>
+                <td><a href="./#/level/{{lid}}/{{$index+1}}">Lesson {{$index+1}}</a></td>
             </tr>
         </tbody>
     </table><br><br>

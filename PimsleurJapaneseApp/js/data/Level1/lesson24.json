@@ -1,0 +1,383 @@
+{
+    "name": "Lesson 24",
+    "trackName": "Pimsleur - Japanese 1 - Lesson 24.mp3",
+    "phrases": [
+        {
+            "English": "Listen to the following conversation",
+            "Japanese": "Tsugi no kaiwa-o kiite kudasai"
+        },
+        {
+            "English": "Please listen again",
+            "Japanese": "Mou ichido kiite kudasai"
+        },
+        {
+            "English": "Please ask \/ Ask Please",
+            "Japanese": "To tazunete kudasai"
+        },
+        {
+            "English": "Answer please",
+            "Japanese": "To kotaete kudasai"
+        },
+        {
+            "English": "Please say",
+            "Japanese": "To itte kudasai"
+        },
+        {
+            "English": "Please say it again",
+            "Japanese": "Mou ichido itte kudasai"
+        },
+        {
+            "English": "Is gasoline expensive in Japan?",
+            "Japanese": "Nihon de wa, gasorin wa takai desu ka?"
+        },
+        {
+            "English": "Yes, it's expensive",
+            "Japanese": "Hai, takai desu"
+        },
+        {
+            "English": "How much is it for one litre?",
+            "Japanese": "Ichi rita ikura desu ka?"
+        },
+        {
+            "English": "I don't know but it's expensive",
+            "Japanese": "Wakarimasen, demo, takai desu"
+        },
+        {
+            "English": "Do you have a car?",
+            "Japanese": "Kuruma o motte imasu ka?"
+        },
+        {
+            "English": "No, I don't have",
+            "Japanese": "Īe, motte imasen"
+        },
+        {
+            "English": "I am American",
+            "Japanese": "Watashi wa Amerika-jin desu"
+        },
+        {
+            "English": "Your family",
+            "Japanese": "Go-kazoku"
+        },
+        {
+            "English": "I'm going to Tokyo",
+            "Japanese": "Tokyo e ikimasu"
+        },
+        {
+            "English": "With your family?",
+            "Japanese": "Go-kazoku to"
+        },
+        {
+            "English": "Yes, with the family",
+            "Japanese": "Ae, kazoku to"
+        },
+        {
+            "English": "I'm going to Tokyo with the family",
+            "Japanese": "Kazoku to Tokyo e ikimasu"
+        },
+        {
+            "English": "Beer and wine",
+            "Japanese": "Biru to wain"
+        },
+        {
+            "English": "My wife and I",
+            "Japanese": "Kanai to watashi"
+        },
+        {
+            "English": "My wife and I are going to Tokyo",
+            "Japanese": "Kanai to watashi wa Tokyo e ikimasu"
+        },
+        {
+            "English": "An American car and a Japanese car",
+            "Japanese": "America no kuruma to Nihon no kuruma"
+        },
+        {
+            "English": "Do you have a Japanese car?",
+            "Japanese": "Nihon no kuruma o motte imasu ka?"
+        },
+        {
+            "English": "No I have an American car",
+            "Japanese": "Īe America no kuruma o mette imasu"
+        },
+        {
+            "English": "Is the car small?",
+            "Japanese": "Kuruma wa chiisai desu ka?"
+        },
+        {
+            "English": "No it's not small",
+            "Japanese": "Īe, chiisaku arimasen"
+        },
+        {
+            "English": "As for gas, is it expensive?",
+            "Japanese": "Gasorin wa takai desu ka?"
+        },
+        {
+            "English": "How much is it?",
+            "Japanese": "Ikura desu ka?"
+        },
+        {
+            "English": "Fill it up",
+            "Japanese": "Mantan ni shite kudasai"
+        },
+        {
+            "English": "40 litres could you please",
+            "Japanese": "Yon-ju litta onegai shimasu"
+        },
+        {
+            "English": "Wait a minute please",
+            "Japanese": "Chotto matte kudasai"
+        },
+        {
+            "English": "That's too much",
+            "Japanese": "O-sugimasu"
+        },
+        {
+            "English": "30 litres could you please?",
+            "Japanese": "Sanju litta onegai shimasu"
+        },
+        {
+            "English": "Is tokyo far?",
+            "Japanese": "Tokyo wa toi desu ka?"
+        },
+        {
+            "English": "No, not far",
+            "Japanese": "Īe, toku arimasen"
+        },
+        {
+            "English": "It's not small",
+            "Japanese": "Chiisaku arimasen"
+        },
+        {
+            "English": "Route \/ Road",
+            "Japanese": "Michi"
+        },
+        {
+            "English": "Which is the route?",
+            "Japanese": "Michi wa dore desu ka?"
+        },
+        {
+            "English": "Which",
+            "Japanese": "Dore"
+        },
+        {
+            "English": "Straight ahead please",
+            "Japanese": "Massugu itte kudasai"
+        },
+        {
+            "English": "No, it's not far",
+            "Japanese": "Īe, toku arimasen"
+        },
+        {
+            "English": "Which is the route to go to Tokyo?",
+            "Japanese": "Tokyo e iku michi wa dore desu ka?"
+        },
+        {
+            "English": "Wait a minute please",
+            "Japanese": "Chotto matte kudasai"
+        },
+        {
+            "English": "Go straight ahead please",
+            "Japanese": "Massugu itte kudasai"
+        },
+        {
+            "English": "Is it far?",
+            "Japanese": "Toi desu ka?"
+        },
+        {
+            "English": "There are seventy kilometres",
+            "Japanese": "Nana-ju kiro arimasu"
+        },
+        {
+            "English": "The road to go to Tokyo is this one",
+            "Japanese": "Tokyo e iku michi kore desu"
+        },
+        {
+            "English": "This",
+            "Japanese": "Kore"
+        },
+        {
+            "English": "The route is this one",
+            "Japanese": "Michi wa kore desu"
+        },
+        {
+            "English": "The Tokyo route",
+            "Japanese": "Tokyo e iku michi"
+        },
+        {
+            "English": "As for the Tokyo route it's this one",
+            "Japanese": "Tokyo e iku michi kore desu"
+        },
+        {
+            "English": "Which is the road to go to Tokyo?",
+            "Japanese": "Tokyo e iku michi wa dore desu ka?"
+        },
+        {
+            "English": "It's this one",
+            "Japanese": "Kore desu"
+        },
+        {
+            "English": "Is it this one?",
+            "Japanese": "Kore desu ka?"
+        },
+        {
+            "English": "Yes that's right \/ Yes it's so",
+            "Japanese": "Ae, so desu"
+        },
+        {
+            "English": "Which is the route to go to Yokohama?",
+            "Japanese": "Yokohama e iku michi wa dore desu ka?"
+        },
+        {
+            "English": "The Yokohoma route is in that direction",
+            "Japanese": "Yokohama e iku micha wa achira desu"
+        },
+        {
+            "English": "That direction",
+            "Japanese": "Achira"
+        },
+        {
+            "English": "It's that direction",
+            "Japanese": "Achira desu"
+        },
+        {
+            "English": "The Tokyo route is in that direction",
+            "Japanese": "Tokyo e iku micha wa achira desu"
+        },
+        {
+            "English": "Straight ahead",
+            "Japanese": "Massugu"
+        },
+        {
+            "English": "Which is the Tokyo route?",
+            "Japanese": "Tokyo e iku michi wa dore desu ka?"
+        },
+        {
+            "English": "It's this one",
+            "Japanese": "Kore desu"
+        },
+        {
+            "English": "Which is the Yokohama route",
+            "Japanese": "Yokohama e iku michi wa dore desu ka?"
+        },
+        {
+            "English": "Which is the Osaka route?",
+            "Japanese": "Osaka e iku michi wa dore desu ka?"
+        },
+        {
+            "English": "It's on the right",
+            "Japanese": "Migi desu"
+        },
+        {
+            "English": "Right",
+            "Japanese": "Migi"
+        },
+        {
+            "English": "I'm not Japanese",
+            "Japanese": "Watashi wa Nihonjin ja arimasen"
+        },
+        {
+            "English": "It's not on the right",
+            "Japanese": "Migi ja arimasen"
+        },
+        {
+            "English": "It's not straight ahead",
+            "Japanese": "Massugu ja arimasen"
+        },
+        {
+            "English": "Is it on the right?",
+            "Japanese": "Migi desu ka?"
+        },
+        {
+            "English": "Or is it straight ahead?",
+            "Japanese": "Soretomo massugu desu ka?"
+        },
+        {
+            "English": "Go straight ahead please",
+            "Japanese": "Massugu itte kudasai"
+        },
+        {
+            "English": "Is it straight ahead?",
+            "Japanese": "Massugu desu ka?"
+        },
+        {
+            "English": "It's on the left",
+            "Japanese": "Hidari desu"
+        },
+        {
+            "English": "Left",
+            "Japanese": "Hidari"
+        },
+        {
+            "English": "Is it straight ahead?",
+            "Japanese": "Massugu desu ka?"
+        },
+        {
+            "English": "To Tokyo",
+            "Japanese": "Tokyo e"
+        },
+        {
+            "English": "Go to the left",
+            "Japanese": "Hidari e itte kudasai"
+        },
+        {
+            "English": "And then go the right",
+            "Japanese": "Sore kara migi e itte kudasai"
+        },
+        {
+            "English": "And then",
+            "Japanese": "Sore kara"
+        },
+        {
+            "English": "I don;t understand",
+            "Japanese": "Wakarimasen"
+        },
+        {
+            "English": "Slowly could you please?",
+            "Japanese": "Yukkuri onegai shimasu"
+        },
+        {
+            "English": "It's too fast",
+            "Japanese": "Hayasugimasu"
+        },
+        {
+            "English": "And then 15 kilometres",
+            "Japanese": "Sore kara ju-go kiro"
+        },
+        {
+            "English": "Tokyo isn't far",
+            "Japanese": "Tokyo wa toku arimasen"
+        },
+        {
+            "English": "How many kilometres are there?",
+            "Japanese": "Nan kiro arimasu ka?"
+        },
+        {
+            "English": "There are seventy five kilometres",
+            "Japanese": "Nana-ju go kiro arimasu"
+        },
+        {
+            "English": "The Tokyo route is this one?",
+            "Japanese": "Tokyo e iku micha wa kore desu ka?"
+        },
+        {
+            "English": "To the left, to the right or straight ahead?",
+            "Japanese": "Hidari desu ka? Migi desu ka? Soretomo massugu?"
+        },
+        {
+            "English": "There are sixty four kilometres",
+            "Japanese": "Roku-jo yon kiro arimasu"
+        },
+        {
+            "English": "How many litres?",
+            "Japanese": "Nan litta?"
+        },
+        {
+            "English": "Twenty litres could you please?",
+            "Japanese": "Ni-ju litta onegai shimasu"
+        },
+        {
+            "English": "Thank you very much",
+            "Japanese": "Domo Arigato Gozaimasu (polite)"
+        }
+    ],
+    "startedOn": "28.05.2016 | 04.08.13 pm"
+}

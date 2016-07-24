@@ -1,0 +1,439 @@
+{
+    "name": "Lesson 23",
+    "trackName": "Pimsleur - Japanese 1 - Lesson 23.mp3",
+    "phrases": [
+        {
+            "English": "Where do you live?",
+            "Japanese": "Doko ni sunde imasu ka?"
+        },
+        {
+            "English": "I live in Shinjuku",
+            "Japanese": "Shinjuku ni sunde imasu"
+        },
+        {
+            "English": "Do you have children?",
+            "Japanese": "Kodomo san ga imasu ka?"
+        },
+        {
+            "English": "I have two, a boy and a girl",
+            "Japanese": "Futari imasu, otoko-noko to onna-noko"
+        },
+        {
+            "English": "Are the children with you?",
+            "Japanese": "Kodomo san wa anata to issho desu ka?"
+        },
+        {
+            "English": "The small child is with me but the big child lives in Washington",
+            "Japanese": "Chiisai kodomo wa watashi to issho desu, demo oukii kodomo wa washington ni sunde imasu"
+        },
+        {
+            "English": "Washington? My child too lives in Washington",
+            "Japanese": "Washington, watashi no kodomo mo washington ni sunde imasu"
+        },
+        {
+            "English": "Is it true?",
+            "Japanese": "Hontou desu ka?"
+        },
+        {
+            "English": "Where is your family living?",
+            "Japanese": "Go-kazuka wa doko ni sunde imasu ka?"
+        },
+        {
+            "English": "Two people",
+            "Japanese": "Futari"
+        },
+        {
+            "English": "The child is little",
+            "Japanese": "Kodomo wa chiisai desu"
+        },
+        {
+            "English": "One person",
+            "Japanese": "Hitori"
+        },
+        {
+            "English": "The child is not little",
+            "Japanese": "Kodomo wa chiisaku arimasen"
+        },
+        {
+            "English": "The big boy is living in Washington",
+            "Japanese": "Oukii otoko-noko wa Washington ni sunde imasu"
+        },
+        {
+            "English": "The big girl is living in New York",
+            "Japanese": "Oukii onna-noko wa New York ni sunde imasu"
+        },
+        {
+            "English": "Where is the bathroom?",
+            "Japanese": "Otearai wa doko desu ka?"
+        },
+        {
+            "English": "Family",
+            "Japanese": "Kazoku"
+        },
+        {
+            "English": "Gasoline",
+            "Japanese": "gasorin"
+        },
+        {
+            "English": "Twenty litres could you please",
+            "Japanese": "Ni-ju litta onegai shimasu"
+        },
+        {
+            "English": "There are 60 kilometres",
+            "Japanese": "Roku-ju kiro arimasu"
+        },
+        {
+            "English": "50 kilometres",
+            "Japanese": "Go-ju kiro"
+        },
+        {
+            "English": "Where is your family living?",
+            "Japanese": "Go-kazoku wa doko ni sunde imasu ka?"
+        },
+        {
+            "English": "Four people",
+            "Japanese": "Yo-nin"
+        },
+        {
+            "English": "My car is small",
+            "Japanese": "Watashi wa kuruma wa chiisai desu"
+        },
+        {
+            "English": "No it's not small",
+            "Japanese": "Īe, chiisaku arimasen"
+        },
+        {
+            "English": "An American car",
+            "Japanese": "America no kuruma"
+        },
+        {
+            "English": "I have a Japanese car",
+            "Japanese": "Nihon no kuruma o motte imasu"
+        },
+        {
+            "English": "In Japan are there American cars?",
+            "Japanese": "Nihon ni America no kuruma ga arimasu ka?"
+        },
+        {
+            "English": "Yes in Japan there are many American cars",
+            "Japanese": "Ae Nihon ni takusan America no kuruma ga arimasu"
+        },
+        {
+            "English": "Gasoline could you please",
+            "Japanese": "gasorin onegai shimasu"
+        },
+        {
+            "English": "Please ask \/ Ask Please",
+            "Japanese": "To tazunete kudasai"
+        },
+        {
+            "English": "Is there gasoline?",
+            "Japanese": "gasorin ga arimasu ka?"
+        },
+        {
+            "English": "Fill",
+            "Japanese": "Mantan (maantaanm)"
+        },
+        {
+            "English": "Fill it up, could you please?",
+            "Japanese": "Mantan onegai shimasu"
+        },
+        {
+            "English": "Fill it up please (Make into a full tank please)",
+            "Japanese": "Mantan ni shite kudasai"
+        },
+        {
+            "English": "10 litres could you please?",
+            "Japanese": "Ju litta onegai shimasu"
+        },
+        {
+            "English": "Wait",
+            "Japanese": "Matte"
+        },
+        {
+            "English": "Wait please",
+            "Japanese": "Matte kudasai"
+        },
+        {
+            "English": "Wait a minute",
+            "Japanese": "Chotto matte"
+        },
+        {
+            "English": "A little",
+            "Japanese": "Chotto"
+        },
+        {
+            "English": "Wait a minute please",
+            "Japanese": "Chotto matte kudasai"
+        },
+        {
+            "English": "Where is the bathroom?",
+            "Japanese": "Otearai wa doko desu ka?"
+        },
+        {
+            "English": "Fill it up please",
+            "Japanese": "Mantan ni shite kudasai"
+        },
+        {
+            "English": "I'm leaving (implies you'll return)",
+            "Japanese": "Ittekimasu"
+        },
+        {
+            "English": "I'm going (without implying you'll return)",
+            "Japanese": "Ikimasu"
+        },
+        {
+            "English": "Are you going?",
+            "Japanese": "Ikimasu ka?"
+        },
+        {
+            "English": "Where to?",
+            "Japanese": "Doko e"
+        },
+        {
+            "English": "To Shinjuku station",
+            "Japanese": "SHinjuke ecki e"
+        },
+        {
+            "English": "To Tokyo",
+            "Japanese": "Tokyo e"
+        },
+        {
+            "English": "I'm going to Tokyo",
+            "Japanese": "Tokyo e ikimasu"
+        },
+        {
+            "English": "Where to?",
+            "Japanese": "Doko e"
+        },
+        {
+            "English": "Where are you going?",
+            "Japanese": "Doko e ikimasu ka?"
+        },
+        {
+            "English": "Tomorrow?",
+            "Japanese": "Ashita"
+        },
+        {
+            "English": "Tomorrow I'm going to Tokyo",
+            "Japanese": "Ashita Tokyo e ikimasu"
+        },
+        {
+            "English": "Far",
+            "Japanese": "Toi (Tho-ee)"
+        },
+        {
+            "English": "It's far",
+            "Japanese": "Toi desu"
+        },
+        {
+            "English": "Tokyo is far",
+            "Japanese": "Tokyo wa toi desu"
+        },
+        {
+            "English": "Is tokyo far?",
+            "Japanese": "Tokyo wa toi desu ka?"
+        },
+        {
+            "English": "70 kilometres",
+            "Japanese": "Nana-ju kiro"
+        },
+        {
+            "English": "Seventy two",
+            "Japanese": "Nana-ju ni"
+        },
+        {
+            "English": "Seventy four kilometres",
+            "Japanese": "Nana-jun yon kiro"
+        },
+        {
+            "English": "No seventy one",
+            "Japanese": "Īe nana-ju ichi"
+        },
+        {
+            "English": "Sixty four kilometres",
+            "Japanese": "Roku-ju yon kiru"
+        },
+        {
+            "English": "And (used when connecting sentences)",
+            "Japanese": "Soshite"
+        },
+        {
+            "English": "I understand a little Japanese and speak a little",
+            "Japanese": "Nihongo ga sukoshi wakarimasu soshite sukoshi hanashimasu"
+        },
+        {
+            "English": "And (used when listing and counting)",
+            "Japanese": "To"
+        },
+        {
+            "English": "My wife and I",
+            "Japanese": "Kanai to watashi"
+        },
+        {
+            "English": "Japanese and English",
+            "Japanese": "Nihogo to Eigo"
+        },
+        {
+            "English": "Beer and rice wine",
+            "Japanese": "Biru to osake"
+        },
+        {
+            "English": "A boy and a girl",
+            "Japanese": "Otoko-noko to onna-noko"
+        },
+        {
+            "English": "Sixty five and seventy five",
+            "Japanese": "Roku-ju go to nana-ju go"
+        },
+        {
+            "English": "It's far away",
+            "Japanese": "Toi desu"
+        },
+        {
+            "English": "It's really far away",
+            "Japanese": "Hontou ni toi desu"
+        },
+        {
+            "English": "Not far",
+            "Japanese": "Toku arimasen"
+        },
+        {
+            "English": "Fill it up please",
+            "Japanese": "Mantan ni shite kudasai"
+        },
+        {
+            "English": "Twenty litres could you please",
+            "Japanese": "Ni-ju litta onegai shimasu"
+        },
+        {
+            "English": "It's not far",
+            "Japanese": "Toku arimasen"
+        },
+        {
+            "English": "There are seventy five kilometres",
+            "Japanese": "Nan-ju go kiro arimasu"
+        },
+        {
+            "English": "Is it true?",
+            "Japanese": "Hontou desu ka?"
+        },
+        {
+            "English": "Yes it's true",
+            "Japanese": "Ae, hontou desu"
+        },
+        {
+            "English": "It's trully far away",
+            "Japanese": "Hontou ni toi desu"
+        },
+        {
+            "English": "How many kilometres are there?",
+            "Japanese": "Nan kiro arimasu ka?"
+        },
+        {
+            "English": "I don't know",
+            "Japanese": "Wakarimasen"
+        },
+        {
+            "English": "But it's far",
+            "Japanese": "Demo toi desu"
+        },
+        {
+            "English": "I'm going to Tokyo",
+            "Japanese": "Tokyo e ikimasu"
+        },
+        {
+            "English": "Tokyo, it's far isn't it?",
+            "Japanese": "Tokyo, toi desu ne?"
+        },
+        {
+            "English": "Seventy five kilometres",
+            "Japanese": "Nan-ju go kiro"
+        },
+        {
+            "English": "Seventy eight and seventy one",
+            "Japanese": "Nana-ju hachi to nana-ju ichi"
+        },
+        {
+            "English": "Straight ahead",
+            "Japanese": "Massugu (maasss-sugu)"
+        },
+        {
+            "English": "Go straight ahead",
+            "Japanese": "Massugu itte kudasai"
+        },
+        {
+            "English": "Go please (polite way of giving directions)",
+            "Japanese": "Itte kudasai"
+        },
+        {
+            "English": "Is there a lot of gas?",
+            "Japanese": "Takusan gasorin ga arimasu ka?"
+        },
+        {
+            "English": "No there isn't",
+            "Japanese": "Īe arimasen"
+        },
+        {
+            "English": "I'm going to Shinjuku",
+            "Japanese": "Shinjuku e ikimasu"
+        },
+        {
+            "English": "Seventy eight and seventy nine",
+            "Japanese": "Nana-ju hachi to nana-ju kyu"
+        },
+        {
+            "English": "A big car and a small car",
+            "Japanese": "Oukii kuruma to chiisai kuruma"
+        },
+        {
+            "English": "It's not small",
+            "Japanese": "Chiisaku arimasen"
+        },
+        {
+            "English": "A Japanese car and an American car",
+            "Japanese": "Nihon no kuruma to America no kuruma"
+        },
+        {
+            "English": "THe family lives in America",
+            "Japanese": "Kazoku wa America ni sunde imasu"
+        },
+        {
+            "English": "We have a Japanese car",
+            "Japanese": "Watashitachi wa Nihon no kuruma ga imasu"
+        },
+        {
+            "English": "Is the car small?",
+            "Japanese": "Kuruma wa chiisai desu ka?"
+        },
+        {
+            "English": "No it's not small",
+            "Japanese": "Īe, chiisaku arimasen"
+        },
+        {
+            "English": "I don't know but it's not far",
+            "Japanese": "Wakarimasen demo toku arimasen"
+        },
+        {
+            "English": "Yes but fill it up please",
+            "Japanese": "Ae demo mantan ni shite kudasai"
+        },
+        {
+            "English": "Our car is small",
+            "Japanese": "Watashitachi no kuruma wa chiisai desu"
+        },
+        {
+            "English": "My car is big",
+            "Japanese": "Watashi no kuruma wa oukii desu"
+        },
+        {
+            "English": "Tokyo is not far",
+            "Japanese": "Tokyo wa toku arimasen"
+        },
+        {
+            "English": "Ok thanks",
+            "Japanese": "Ok domo arigattou"
+        }
+    ],
+    "startedOn": "27.05.2016 | 10.21.59 am"
+}
