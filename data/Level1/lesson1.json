@@ -1,6 +1,5 @@
 {
     "name": "Lesson 1",
-    "trackName": "Pimsleur - Japanese 1 - Lesson 01.mp3",
     "phrases": [
         {
             "English": "I understand",
@@ -16,7 +15,7 @@
         },
         {
             "English": "Japanese",
-            "Japanese": "Nihongo, Nihongo-ga"
+            "Japanese": "Nihongo, Nihongo ga"
         },
         {
             "English": "Is / Are",
@@ -24,7 +23,7 @@
         },
         {
             "English": "English",
-            "Japanese": "Eigo, Eigo-ga"
+            "Japanese": "Eigo, Eigo ga"
         },
         {
             "English": "American",
@@ -40,7 +39,7 @@
         },
         {
             "English": "Do you understand English?",
-            "Japanese": "Eigo-ga wakarimasu-ka?"
+            "Japanese": "Eigo ga wakarimasu ka?"
         },
         {
             "English": "Are you American?",
@@ -56,7 +55,7 @@
         },
         {
             "English": "I understand japanese a little",
-            "Japanese": "Nihongo-ga sukoshi wakarimasu"
+            "Japanese": "Nihongo ga sukoshi wakarimasu"
         },
         {
             "English": "American",
