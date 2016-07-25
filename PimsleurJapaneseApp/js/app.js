@@ -10,6 +10,10 @@
                 templateUrl: "views/lesson.html",
                 controller: "LessonController"
             })
+            .when("/level/:lid/:lsn/cards", {
+                templateUrl: "views/cards.html",
+                controller: "CardController"
+            })
             .otherwise({ redirectTo: "/list" });
     });
 } ());
