@@ -120,7 +120,9 @@ from touching the row content above or below.
     left:0px;
     right:0px;
     padding: 20px;
+    padding-top: 0px;
     height: 100%;
+    font-size:16px;
 }
 .flip .card .face {
     -webkit-backface-visibility: hidden;
