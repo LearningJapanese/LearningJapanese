@@ -10,11 +10,15 @@
     }
 </style>
 
-<div class="row" style="margin-bottom:15px">
+<div class="row" style="margin-bottom:15px" ng-model="viewLessons" ng-init="viewLessons = false">
     <span class="col-md-2 col-xs-3 noselect glyphicon glyphicon-menu-left text-center" ng-click="navUnit(false)"></span>
-    <b class="col-md-8 col-xs-6 text-center">Lesson {{lsn}}</b>
+    <b class="col-md-8 col-xs-6 text-center" ng-click="viewLessons = viewLessons ? false : true">Lesson {{lsn}}</b>
     <span class="col-md-2 col-xs-3 noselect glyphicon glyphicon-menu-right text-center" ng-click="navUnit(true)" ng-show="lsn<lsnCount"></span>
     <hr style="margin-top:5px;border-top: 1px solid #949caf;">
+</div>
+
+<div class="row" ng-show="viewLessons" style="margin-bottom:30px">
+    <a href="./#/level/1/{{$index+1}}/cards" class="btn btn-default col-md-1 col-xs-2 col-md-4" ng-repeat="unit in lessons">{{$index+1}}</a>
 </div>
 
 <div class="row">
@@ -64,6 +68,9 @@
     </div>
 </div>-->
 
+
+<div style="height:60px;" class="hidden-lg" ng-show="viewLessons"></div>
+
 <footer class="navbar-fixed-bottom text-center" style="height:100px;padding:25px;">
     <div class="container">
         <div class="row">
@@ -73,3 +80,4 @@
         </div>
     </div>
 </footer>
+
