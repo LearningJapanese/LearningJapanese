@@ -12,7 +12,7 @@
 
 <div class="row" style="margin-bottom:15px" ng-model="viewLessons" ng-init="viewLessons = false">
     <span class="col-md-2 col-xs-3 noselect glyphicon glyphicon-menu-left text-center" ng-click="navUnit(false)"></span>
-    <b class="col-md-8 col-xs-6 text-center" ng-click="viewLessons = viewLessons ? false : true">Lesson {{lsn}}</b>
+    <b    class="col-md-8 col-xs-6 noselect text-center" ng-click="viewLessons = viewLessons ? false : true">Lesson {{lsn}}</b>
     <span class="col-md-2 col-xs-3 noselect glyphicon glyphicon-menu-right text-center" ng-click="navUnit(true)" ng-show="lsn<lsnCount"></span>
     <hr style="margin-top:5px;border-top: 1px solid #949caf;">
 </div>
